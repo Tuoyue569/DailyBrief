@@ -44,7 +44,7 @@ permissions:
   contents: write  # needed to push to gh-pages branch
 
 concurrency:
-  group: daily-brief
+  group: daily-brief-pages
   cancel-in-progress: false
 
 jobs:
