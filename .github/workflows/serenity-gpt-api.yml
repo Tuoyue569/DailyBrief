@@ -11,6 +11,9 @@ on:
 permissions:
   contents: write
 
+  env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+
 # IMPORTANT: patch the original daily.yml to use this same group, preventing
 # simultaneous gh-pages publishes from overwriting each other.
 concurrency:
@@ -23,10 +26,10 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '20'
 
