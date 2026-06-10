@@ -1,0 +1,87 @@
+{
+  "generatedAt": "2026-06-10T16:14:06.545Z",
+  "files": {
+    "skill": {
+      "sha": "0eeb1a9c36b98e453c46a6189ec3976a4d991544",
+      "lastCommitAt": "2026-06-08T09:14:26Z"
+    },
+    "methodology": {
+      "sha": "24e39406819c0ed6137ed60be231e183e21b20f9",
+      "lastCommitAt": "2026-06-03T03:04:57Z"
+    },
+    "theses": {
+      "sha": "0a15641a135a00596cf83ba6f70d70b04ee8c034",
+      "lastCommitAt": "2026-06-10T14:06:24Z"
+    },
+    "articles": {
+      "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
+      "lastCommitAt": "2026-06-04T10:34:33Z"
+    },
+    "trackRecord": {
+      "sha": "ba2f1322b77695f48c5293b008a289415d1b49bc",
+      "lastCommitAt": "2026-06-07T02:27:33Z"
+    }
+  },
+  "thesesByTicker": {
+    "SIVE": {
+      "fingerprint": "1df314b5c9ed5f17d6cb1d8d4f3f8de8a4eb2e11f775ff3c4d794542d02fbfec",
+      "view": "Bullish (space/defense catalyst + multi-institution floor-building)",
+      "updatedAt": "2026-06-10T13:44:57Z"
+    },
+    "AAOI": {
+      "fingerprint": "0f6ef60a5846b4066f93d8fb897459641908deeeedd30751c9093d63b0b9e325",
+      "view": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
+      "updatedAt": "2026-06-10T13:44:57Z"
+    },
+    "LITE": {
+      "fingerprint": "d958ed75bbfce98883bc0f2afd486261616679536c5a2e4eedbe4e018a71332d",
+      "view": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
+      "updatedAt": "2026-06-10T13:44:57Z"
+    },
+    "NVDA": {
+      "fingerprint": "bcc47bbf3fe722d5a0783f58081c10fd2522b9997220f0428777f16f038c8454",
+      "view": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)",
+      "updatedAt": "2026-06-10T10:47:56Z"
+    },
+    "MU": {
+      "fingerprint": "a1c3f02fcd32bccab50c4d96056ddfd60309f5e04ea58d450a975f4338a9eb07",
+      "view": "Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports; pattern re-invoked and further corroborated for NVDA CPO/800V episode)",
+      "updatedAt": "2026-06-10T10:47:56Z"
+    },
+    "NBIS": {
+      "fingerprint": "f3516da872ea686aa80eb8d2473be41b125e4cf7b9479ac8f040de2d0e6703fd",
+      "view": "Bullish / High Conviction (current disclosed holding)",
+      "updatedAt": "2026-06-09T11:52:27Z"
+    },
+    "TSEM": {
+      "fingerprint": "dc32cc7239a508acae86da077ffc566087c16012755bef94aaba73ed36562d65",
+      "view": "Bullish (current disclosed holding; \"TSM of photonics\" thesis)",
+      "updatedAt": "2026-06-09T11:52:27Z"
+    },
+    "MID-CAP": {
+      "fingerprint": "6cf3cf5cb000b425e5a67b35da149d77214c7446cfe8dc9ce83252d6a3a3c0de",
+      "view": "Speculative research / watchlist — **no position held** in any of these",
+      "updatedAt": "2026-06-09T11:52:27Z"
+    },
+    "JBL": {
+      "fingerprint": "fbdb09c8a4f90452810103b6bfd3b9fc33b246d5fa5507caaad9798cf4bfb67a",
+      "view": "Tentatively bullish (speculative research idea, no position held)",
+      "updatedAt": "2026-06-09T06:44:07Z"
+    },
+    "MRVL": {
+      "fingerprint": "d809d4fe2139f19c4610e52c9999651af2f8412fe9c0848d95b26f4a0457b811",
+      "view": "Bullish (top US equity pick)",
+      "updatedAt": "2026-06-08T14:01:34Z"
+    },
+    "ARM": {
+      "fingerprint": "f4adc971a92a36b903390f1ff13d06fdf39e08935ff0e3e5467f76d9c0194f75",
+      "view": "Bullish (top US equity pick)",
+      "updatedAt": "2026-06-08T14:01:34Z"
+    },
+    "INTC": {
+      "fingerprint": "82c4200ea4bf5daad2c1fd7cb15acc7b6b6912eb88ee37b72ab9a2b7178a0db1",
+      "view": "Bullish (top US equity pick)",
+      "updatedAt": "2026-06-08T14:01:34Z"
+    }
+  }
+}

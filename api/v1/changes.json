@@ -1,0 +1,141 @@
+{
+  "generatedAt": "2026-06-10T16:14:06.545Z",
+  "comparedWithPreviousSnapshotAt": null,
+  "initialSnapshot": true,
+  "anyChange": true,
+  "fileChanges": [
+    {
+      "key": "skill",
+      "path": "serenity-aleabitoreddit/SKILL.md",
+      "changed": true,
+      "previousSha": null,
+      "currentSha": "0eeb1a9c36b98e453c46a6189ec3976a4d991544",
+      "lastCommitAt": "2026-06-08T09:14:26Z",
+      "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/SKILL.md"
+    },
+    {
+      "key": "methodology",
+      "path": "serenity-aleabitoreddit/references/methodology.md",
+      "changed": true,
+      "previousSha": null,
+      "currentSha": "24e39406819c0ed6137ed60be231e183e21b20f9",
+      "lastCommitAt": "2026-06-03T03:04:57Z",
+      "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/methodology.md"
+    },
+    {
+      "key": "theses",
+      "path": "serenity-aleabitoreddit/references/theses.md",
+      "changed": true,
+      "previousSha": null,
+      "currentSha": "0a15641a135a00596cf83ba6f70d70b04ee8c034",
+      "lastCommitAt": "2026-06-10T14:06:24Z",
+      "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/theses.md"
+    },
+    {
+      "key": "articles",
+      "path": "serenity-aleabitoreddit/references/articles.md",
+      "changed": true,
+      "previousSha": null,
+      "currentSha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
+      "lastCommitAt": "2026-06-04T10:34:33Z",
+      "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/articles.md"
+    },
+    {
+      "key": "trackRecord",
+      "path": "serenity-aleabitoreddit/references/track-record.md",
+      "changed": true,
+      "previousSha": null,
+      "currentSha": "ba2f1322b77695f48c5293b008a289415d1b49bc",
+      "lastCommitAt": "2026-06-07T02:27:33Z",
+      "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/track-record.md"
+    }
+  ],
+  "thesisChanges": [
+    {
+      "type": "new_ticker",
+      "ticker": "SIVE",
+      "currentView": "Bullish (space/defense catalyst + multi-institution floor-building)",
+      "updatedAt": "2026-06-10T13:44:57Z",
+      "latestSignal": "New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as \"US institutions validated Sivers's position in photonics and are trying to accumulate positions.\" Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "AAOI",
+      "currentView": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
+      "updatedAt": "2026-06-10T13:44:57Z",
+      "latestSignal": "Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as \"current favorite US long\" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "LITE",
+      "currentView": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
+      "updatedAt": "2026-06-10T13:44:57Z",
+      "latestSignal": "Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — \"no delays, as this aligns with previous timelines shared.\" Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): \"The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities.\""
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "NVDA",
+      "currentView": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)",
+      "updatedAt": "2026-06-10T10:47:56Z",
+      "latestSignal": "Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run \"contrary to our own checks at Computex.\" Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off \"the dumbest selloff I've seen,\" drawing a direct analogy to the prior MU/HBM4-no-share false report that caused a sell-off before Micron entered mass production and delivered triple-digit returns. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative, with Serenity framing this as a clear buying opportunity."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "MU",
+      "currentView": "Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports; pattern re-invoked and further corroborated for NVDA CPO/800V episode)",
+      "updatedAt": "2026-06-10T10:47:56Z",
+      "latestSignal": "Serenity drew an explicit analogy between the current SemiAnalysis 800V DC pushback on NVDA and the prior false analyst claim that $MU had no HBM4 Rubin share. Morgan Stanley has now also independently contradicted the SemiAnalysis NVDA 800V report (\"contrary to our own checks at Computex\"). The MU/SemiAnalysis pattern — false negative analyst report → sell-off → company enters mass production → triple-digit returns for buyers of the dip — is being re-invoked as the established template. The implication: \"people going long on temporary bridge architectures from this incorrect report won't be too happy. Appreciate the buying opportunity though.\""
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "NBIS",
+      "currentView": "Bullish / High Conviction (current disclosed holding)",
+      "updatedAt": "2026-06-09T11:52:27Z",
+      "latestSignal": "Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having \"compelling ROI\" relative to $ARM and $MRVL, which \"ran quite a bit.\" NBIS has been Serenity's defining multi-period position since Sep 2025."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "TSEM",
+      "currentView": "Bullish (current disclosed holding; \"TSM of photonics\" thesis)",
+      "updatedAt": "2026-06-09T11:52:27Z",
+      "latestSignal": "Confirmed active holding in June 9 AI mid-cap list alongside NBIS and AAOI. Positioned within the AI supply-chain mid-cap bucket ($10-100B) framed as having compelling ROI. Tower is the only pure-play specialty analog foundry with volume silicon-photonics / CPO-track capability outside TSMC."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "MID-CAP",
+      "currentView": "Speculative research / watchlist — **no position held** in any of these",
+      "updatedAt": "2026-06-09T11:52:27Z",
+      "latestSignal": "Serenity listed these as AI exposure names in the $10-100B market-cap range with \"compelling ROI right now compared to indexes or $ARM to $MRVL that ran quite a bit.\" No position held in any of these; only NBIS/TSEM/AAOI confirmed as current holdings. The group is framed as \"smaller ideas to chase outsized returns.\" NOK is notable as a silicon-photonics foundry partner (NVDA/NOK photonixFAB evaluation already an XFAB-thesis reference point). Note: $LITE has been promoted to a dedicated thesis entry (see above) based on Jun 10 CPO timeline confirmation."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "JBL",
+      "currentView": "Tentatively bullish (speculative research idea, no position held)",
+      "updatedAt": "2026-06-09T06:44:07Z",
+      "latestSignal": "Serenity flagged $JBL as a \"highkey compelling long idea at $38B\" — arguing markets haven't priced in the 1.6T LRO pluggable transceiver business, especially if $SIVE becomes the laser bottleneck through H1 2027. Jabil took over $INTC pluggable lines and is positioned as more scalable than $AAOI's capex-heavy laser-fab approach: if $SIVE + diverse fabs (Win Semi + others) supply lasers and $JBL handles final assembly, that creates an Innolight-style vertically-integrated setup with already-validated hyperscaler relationships and US-production premiums. Potential 40% re-rating by H1 2027."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "MRVL",
+      "currentView": "Bullish (top US equity pick)",
+      "updatedAt": "2026-06-08T14:01:34Z",
+      "latestSignal": "Serenity reaffirmed $MRVL as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "ARM",
+      "currentView": "Bullish (top US equity pick)",
+      "updatedAt": "2026-06-08T14:01:34Z",
+      "latestSignal": "Serenity reaffirmed $ARM as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names. Context: Serenity noted they have been discussing international companies recently, but reaffirmed the US list including $ARM remains favored."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "INTC",
+      "currentView": "Bullish (top US equity pick)",
+      "updatedAt": "2026-06-08T14:01:34Z",
+      "latestSignal": "Serenity reaffirmed $INTC as part of a curated US equities \"goated\" list alongside $MRVL and $ARM. This is notable given Intel's turnaround context — inclusion in this list signals continued conviction despite sector headwinds."
+    }
+  ],
+  "requiresKnowledgeRefresh": false,
+  "recommendedAction": "Initial snapshot created. No historical diff is available yet."
+}

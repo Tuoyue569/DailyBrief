@@ -1,0 +1,120 @@
+openapi: 3.1.0
+info:
+  title: Serenity Daily Intelligence API
+  version: 1.0.0
+  description: Read-only live context for a Custom GPT using Serenity's public supply-chain research distillation and the latest DailyBrief report.
+servers:
+  - url: https://Tuoyue569.github.io/DailyBrief
+paths:
+  /api/v1/context.json:
+    get:
+      operationId: getSerenityRealtimeContext
+      summary: Get compact live Serenity context
+      description: Call this first for current Serenity thesis changes, source freshness, compact ticker theses, and the latest daily brief excerpt.
+      x-openai-isConsequential: false
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+  /api/v1/status.json:
+    get:
+      operationId: getSerenityApiStatus
+      summary: Get API freshness and source status
+      description: Returns generation time, source commit dates, hashes, and endpoint links.
+      x-openai-isConsequential: false
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+  /api/v1/changes.json:
+    get:
+      operationId: getSerenityChanges
+      summary: Get changes since the previous API snapshot
+      description: Returns changed source files, new or revised ticker theses, stance changes, and whether static GPT Knowledge should be refreshed.
+      x-openai-isConsequential: false
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+  /api/v1/theses.json:
+    get:
+      operationId: getSerenityTickerTheses
+      summary: Get latest distilled ticker theses
+      description: Returns the latest public distilled Serenity view per ticker, with dates, evidence excerpts, and source links. These are historical/public views and still require current company fact verification.
+      x-openai-isConsequential: false
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+  /api/v1/articles.json:
+    get:
+      operationId: getSerenityArticleSummaries
+      summary: Get distilled long-form article summaries
+      description: Returns the public repository's compact article index and durable article-backed thesis summaries.
+      x-openai-isConsequential: false
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+  /api/v1/methodology.json:
+    get:
+      operationId: getSerenityMethodology
+      summary: Get Serenity's reusable methodology
+      description: Returns the current reusable supply-chain principles and checklist distilled from public content.
+      x-openai-isConsequential: false
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+  /api/v1/track-record.json:
+    get:
+      operationId: getSerenityTrackRecordCalibration
+      summary: Get track-record calibration and reversals
+      description: Returns calibration notes, caveats, reversals, and selection-bias warnings. Do not treat self-reported returns as verified.
+      x-openai-isConsequential: false
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true
+  /api/v1/latest-brief.json:
+    get:
+      operationId: getLatestDailyBrief
+      summary: Get the latest DailyBrief excerpt
+      description: Returns the latest generated DailyBrief date, report URL, and a compact plain-text excerpt.
+      x-openai-isConsequential: false
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties: true

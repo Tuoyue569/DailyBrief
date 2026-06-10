@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-06-10T16:14:06.545Z",
+  "knowledgeAsOf": "2026-06-10T14:06:24Z",
+  "source": {
+    "path": "serenity-aleabitoreddit/references/articles.md",
+    "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
+    "lastCommitAt": "2026-06-04T10:34:33Z",
+    "lastCommitSha": "790369c2c36bdd9b8a1e0c95b6f2012cd8833954",
+    "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/articles.md"
+  },
+  "index": [
+    {
+      "date": "2026-01-19",
+      "shareTweetId": "2013133037408805375",
+      "articleUrl": "https://x.com/i/article/2013121302513803265`",
+      "title": "The Hidden Gold Rush for Markets - Finding the Next 850%+ Return Bottleneck",
+      "portfolioRelevance": "Durable methodology article. Reinforces upstream bottleneck hunting, especially AXTI/InP, LPTH/germanium, specialty materials, defense, space, and small-cap supply-chain names."
+    },
+    {
+      "date": "2026-02-14",
+      "shareTweetId": "2022693758312288475",
+      "articleUrl": "https://x.com/i/article/2022670933174161413`",
+      "title": "The \"Clarity\" Act is Crypto's Trojan Horse, paid for by Bank Lobbying",
+      "portfolioRelevance": "Crypto-policy warning. Relevant only if analyzing BTC, stablecoins, crypto exchanges, or crypto-adjacent equities."
+    },
+    {
+      "date": "2026-03-15",
+      "shareTweetId": "2033155882809479239",
+      "articleUrl": "https://x.com/i/article/2033141382127431680`",
+      "title": "America is losing the Robotics Race to China. The Hidden Kill Switch over \"American Robotics\"",
+      "portfolioRelevance": "Robotics/physical-AI supply-chain article. Supports rare earths, magnets, metallization, structural materials, and upstream Western critical-material exposure."
+    },
+    {
+      "date": "2026-05-19",
+      "shareTweetId": "2056691097594925522",
+      "articleUrl": "https://x.com/i/article/2056688641448321024`",
+      "title": "SIVE - The CPO Laser Chokepoint for Hyperscalers",
+      "portfolioRelevance": "Highest portfolio impact. Upgrades the SIVE/SIVEF thesis from tweet-thread signal to long-form supply-chain map across CPO, pluggables, Apple/Aeva/MRVL, Ayar, Jabil, POET, Lightium/O-Net, AMD/GFS, Nokia, and defense."
+    }
+  ],
+  "sections": [
+    {
+      "title": "SIVE / SIVEF - CPO Laser Chokepoint",
+      "summary": "The May 19 article is the strongest long-form source for Serenity's SIVE thesis.\nIt frames Sivers Photonics as a high-beta merchant CW/DFB laser supplier sitting\nupstream of the CPO and 1.6T optical-transceiver ramp. The article separates\nevidence into public links, high-confidence customer mapping, and likely\ncustomer paths.\n\nPublicly disclosed or directly mappable links:\n\n- Jabil 1.6T pluggable optical-transceiver module.\n- POET external light source collaboration.\n- Ayar Labs supplier/partner path after other listed laser suppliers were\n  removed.\n- O-Net / Enablence external light source path.\n- Lightium AG thin-film lithium-niobate integration.\n- Win Semi / GFS as scale-up and foundry de-risking paths.\n\nHigh-confidence but still unconfirmed customer paths:\n\n- Apple silicon-photonics / Apple Watch path.\n- Aeva FMCW LiDAR path, with optionality into physical-AI and autonomous systems.\n- Marvell / Celestial path where SIVE may supply lasers directly rather than\n  only through POET.\n\nLikely or optionality paths:\n\n- Lightmatter and Lightelligence private optical-compute ecosystems.\n- AMD via GlobalFoundries CPO / MI500-related silicon-photonics work.\n- Nokia / telecom route, inferred from Finland revenue and broader optical\n  ecosystem links.\n- YSS / York Space / ALLSPACE and other defense-space paths tied to Golden Dome,\n  Space Force, SDA, and DoD work.\n\nPortfolio interpretation: this article strengthens SIVE as the highest-context\nCPO laser bottleneck name in the corpus. It does not remove execution risk:\nhyperscalers can multi-source, many customer links remain NDA-based or\ninferential, and mass-production economics still need to show up in reported\norders, revenue, and margin."
+    },
+    {
+      "title": "Hidden Gold Rush - Upstream Bottleneck Method",
+      "summary": "The January article formalizes his core method: do not stop at the obvious\nAI/defense/space winner; trace the bill of materials into tiny upstream markets\nwhere a small supplier can bottleneck a much larger TAM. AXTI/InP and\nLPTH/germanium are used as model cases. The useful workflow is:\n\n1. Identify the downstream TAM that can expand by an order of magnitude.\n2. Map the physical input that cannot scale quickly.\n3. Find whether the supplier set is concentrated, geopolitically constrained, or\n   ignored by institutions.\n4. Prefer the smallest public company with the hardest-to-replicate chokepoint,\n   then size for volatility and dilution risk.\n\nRepeated framing worth carrying forward:\n\n- He treats this as a \"bottleneck cliff\" rather than a generic AI-beta trade:\n  once a niche material becomes mandatory for AI, defense, or space, the market\n  can stop valuing the supplier like a commodity producer and start valuing it\n  like a constrained monopoly.\n- He explicitly looks for a four-part setup: US onshoring/policy support, China\n  export controls, geopolitical disruption, and a new-technology ramp that\n  consumes formerly niche materials.\n- He cares about inventory-allocation game theory, not only end-demand growth:\n  if hyperscalers or defense primes race to pre-buy scarce inputs, price and\n  bargaining power can rerate faster than unit volumes.\n- His research list mixes raw materials, specialty processing, and obscure\n  enabling tools. The pattern is to search not just for miners, but also for\n  processors, deposition, thermal, masking, vacuum, and radiation-hard supply\n  points that sit upstream of future bottlenecks.\n\nPortfolio interpretation: this article reinforces AXTI and the broader\ncritical-materials watchlist, but it is a method article, not a fresh buy signal\nfor every ticker mentioned."
+    },
+    {
+      "title": "Robotics Race - China Kill-Switch Over Hardware Supply Chains",
+      "summary": "The March article argues that humanoids and robotics are constrained by\nmaterials and manufacturing, not just AI software. Its main warning is that\nChina controls major rare-earth mining, refining, and magnet capacity, so the US\nrobotics stack has a strategic hardware vulnerability.\n\nThe article supports monitoring Western or ex-China exposure across:\n\n- Rare earths and magnets: MP, UUUU, USAR, NEO.TSX, LYSDY.\n- Structural and specialty materials: ATI, CRS, FCX, NB, MTRN, LGO, BMM, VNP,\n  TECK.\n- Battery, graphite, and electrode materials: ALB, EAF, ALTM, SYR.\n\nMore specific durable takeaways from the article:\n\n- He breaks the robotics bill of materials into three buckets that recur in his\n  later writing: magnet metals for frameless torque motors, structural\n  metallurgy for reducers/roller screws, and compute-perception-power materials\n  for semis, LiDAR, radios, and batteries.\n- The thesis is not just \"rare earths good.\" His actual claim is that the West\n  needs rebuild capacity across mining, separation, alloying/metallization, and\n  finished magnet manufacturing; he treats midstream processing as the harder\n  chokepoint than simply owning ore.\n- He treats US robotics leaders as brain-heavy but body-dependent: software and\n  model leadership can still be bottlenecked if the physical actuator and magnet\n  stack remains China-anchored.\n- He frames gallium, germanium, graphite, copper, and lithium as part of the\n  same robotics sovereignty problem, not separate verticals. In practice, that\n  means he reads robotics through a broader critical-materials basket rather\n  than a single \"humanoid pure-play\" ticker.\n\nPortfolio interpretation: this supports keeping small critical-material and\nrare-earth exposure on the watchlist, but the thesis is broad and geopolitical.\nIt should not outrank higher-specificity CPO/laser evidence without current\nprice, contract, and liquidity checks."
+    },
+    {
+      "title": "Clarity Act - Crypto Policy Risk",
+      "summary": "The February article is a crypto-market-structure critique. It is not relevant\nto the default AI/semi/CPO portfolio unless the user is evaluating BTC,\nstablecoin yield, crypto exchanges, crypto treasuries, or crypto legislation\nbeta.\n\nIts durable policy lens is:\n\n- A stablecoin-yield ban is treated as a direct attack on crypto-native cash\n  parking and exchange liquidity, not a neutral consumer-protection rule.\n- A 1:1 reserve regime is framed as structurally excluding algorithmic or\n  crypto-collateralized stablecoins, which in his view pushes liquidity and\n  collateral demand back into the banking system.\n- Bank-issued tokenized deposits are treated as a regulatory carve-out that lets\n  banks compete with stablecoins under softer rules.\n- Custody, on-off-ramps, and settlement windows are the real chokepoints. He\n  reads any bank-only control there as bearish for crypto-native business models\n  even if the headline says \"market structure clarity.\"\n\nPortfolio interpretation: when this lens is relevant, it is mainly a filter for\nliquidity, treasury, and custody risk in crypto equities or tokens. Treat it as\nSerenity's policy framing, not as a verified legal memo.\n\n## Maintenance Rule\n\nDo not commit full X Article text to this public repo. Store only metadata,\nshort summaries, durable thesis deltas, and portfolio-use rules. If private\nlocal full-text caching is needed for personal research, keep it outside the\nrepo or under an ignored local path."
+    }
+  ]
+}
