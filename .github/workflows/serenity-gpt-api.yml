@@ -1,8 +1,5 @@
 name: Serenity GPT Realtime API
 
-# Refreshes the public, read-only GPT Action JSON API without calling an LLM.
-# Default cadence: twice per hour. GitHub Actions schedules may be delayed.
-
 on:
   schedule:
     - cron: '17,47 * * * *'
@@ -11,11 +8,6 @@ on:
 permissions:
   contents: write
 
-  env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
-
-# IMPORTANT: patch the original daily.yml to use this same group, preventing
-# simultaneous gh-pages publishes from overwriting each other.
 concurrency:
   group: daily-brief-pages
   cancel-in-progress: false
@@ -24,6 +16,7 @@ jobs:
   build-api:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v5
@@ -31,12 +24,13 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Restore current GitHub Pages content
         run: |
           set -euo pipefail
           mkdir -p daily_reports
+
           if git ls-remote --exit-code --heads origin gh-pages >/dev/null 2>&1; then
             git fetch origin gh-pages --depth=1
             git --work-tree=daily_reports checkout origin/gh-pages -- . || true
@@ -48,10 +42,8 @@ jobs:
       - name: Build GPT realtime API
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # Optional variables. Defaults are already correct for the public source repo.
           SERENITY_REPO: ${{ vars.SERENITY_REPO || 'yan-labs/serenity-aleabitoreddit' }}
           SERENITY_REF: ${{ vars.SERENITY_REF || 'main' }}
-          # Set only when using a custom domain. Otherwise the script derives GitHub Pages URL.
           PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
         run: node scripts/build-gpt-api.mjs
 
