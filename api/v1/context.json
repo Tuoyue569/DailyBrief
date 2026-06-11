@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-11T12:59:34.687Z",
-  "knowledgeAsOf": "2026-06-11T10:14:57Z",
+  "generatedAt": "2026-06-11T21:32:47.302Z",
+  "knowledgeAsOf": "2026-06-11T19:14:31Z",
   "sourceFreshness": {
     "skill": "2026-06-11T08:01:52Z",
     "methodology": "2026-06-03T03:04:57Z",
-    "theses": "2026-06-11T10:14:57Z",
+    "theses": "2026-06-11T19:14:31Z",
     "articles": "2026-06-04T10:34:33Z",
     "trackRecord": "2026-06-11T09:21:33Z"
   },
@@ -15,69 +15,229 @@
     "recommendedAction": "Review changed methodology/articles/track-record or stance reversals, then refresh the Custom GPT Knowledge files.",
     "thesisChanges": [
       {
-        "type": "new_ticker",
-        "ticker": "XFAB",
-        "currentView": "Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. \"automaker supplier\" perception)",
-        "updatedAt": "2026-06-11T09:54:56Z",
-        "latestSignal": "Serenity framed $XFAB as the leading EU effort to build a silicon photonics foundry alternative to $TSEM and $GFS, backed by European government support with active NVDA evaluations underway. At ~€1.1B market cap, Serenity argues markets still price it as a \"depressed automaker supplier,\" ignoring its silicon photonics foundry roadmap: development finishing Oct 2026, production scaling 2027, mass production 2028 (working since 2023). R&D directors from ASE cite $XFAB as a future CPO (Co-Packaged Optics) route. Serenity explicitly acknowledges being \"might just really early\" and that risk/reward depends on commercialization execution. Also explicitly names $TSEM as the \"de-risked route\" for those wanting lower-risk photonics exposure."
-      },
-      {
-        "type": "new_ticker",
-        "ticker": "LPK",
-        "currentView": "Speculative / Exploratory (disclosed position; contract scope unclear)",
-        "updatedAt": "2026-06-11T08:46:38Z",
-        "latestSignal": "Serenity discovered $LPK in SpaceX US import logs as an \"unknown SpaceX supplier\" and disclosed a position ahead of SpaceX's IPO this week (discussed alongside Velo/SpaceX context). Contract details unknown; Serenity explicitly caveats \"not sure what the exact contract entails\" and credits follower @Albert_TheVoid for the DM tip. Framed as \"fun information discovery\" rather than a high-conviction call."
+        "type": "thesis_updated",
+        "ticker": "MRVL",
+        "previousView": "Bullish (top US equity pick)",
+        "currentView": "Bullish (top US equity pick)",
+        "updatedAt": "2026-06-11T18:19:06Z",
+        "latestSignal": "Serenity reaffirmed $MRVL as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings."
       },
       {
         "type": "thesis_updated",
-        "ticker": "SIVE",
-        "previousView": "Bullish (space/defense catalyst + multi-institution floor-building)",
-        "currentView": "Bullish (space/defense catalyst + multi-institution floor-building)",
-        "updatedAt": "2026-06-11T08:11:37Z",
-        "latestSignal": "New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as \"US institutions validated Sivers's position in photonics and are trying to accumulate positions.\" Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced."
+        "ticker": "LITE",
+        "previousView": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
+        "currentView": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
+        "updatedAt": "2026-06-11T18:19:06Z",
+        "latestSignal": "Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — \"no delays, as this aligns with previous timelines shared.\" Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): \"The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities.\""
       },
       {
         "type": "new_ticker",
-        "ticker": "AXTI",
-        "currentView": "Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry",
-        "updatedAt": "2026-06-11T05:27:12Z",
-        "latestSignal": "Reuters report confirms China's control over InP threatens the AI DC buildout; Serenity frames AXTI as the prescient supply-chain call: \"Who could have guessed $AXTI would have been a major point of failure?\" This is thesis validation, *not* a new buy signal. Position from Dec 2025 at ~$700M MC delivered 1,057%+ gains by Apr 24 2026; Serenity explicitly stated \"not a buy now, do not short\" at 1,057%+ level. Reuters confirmation means the InP bottleneck thesis is now acknowledged by mainstream financial media — typically a late-cycle validation, not a fresh entry."
+        "ticker": "SNDK",
+        "currentView": "Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)",
+        "updatedAt": "2026-06-11T18:19:06Z",
+        "latestSignal": "Serenity named $SNDK alongside $MRVL and $LITE as stocks rising due to Trump's cancellation of Iran strikes: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile.\" This is a market-context observation, not a primary thesis or position announcement."
       },
       {
-        "type": "thesis_updated",
+        "type": "new_ticker",
+        "ticker": "WULF",
+        "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+        "updatedAt": "2026-06-11T17:54:35Z",
+        "latestSignal": "Serenity flagged Anthropic's first DC leasing push — \"more than a dozen letters of intent with U.S. developers\" per The Information — as a \"potential tailwind for the Neocloud colo sector,\" naming $WULF as one of the direct beneficiaries. No position disclosed."
+      },
+      {
+        "type": "new_ticker",
+        "ticker": "CIFR",
+        "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+        "updatedAt": "2026-06-11T17:54:35Z",
+        "latestSignal": "Named alongside $WULF, $WYFI, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push. Serenity cites The Information reporting on a dozen+ LOIs from Anthropic with U.S. developers."
+      },
+      {
+        "type": "new_ticker",
+        "ticker": "WYFI",
+        "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+        "updatedAt": "2026-06-11T17:54:35Z",
+        "latestSignal": "Named alongside $WULF, $CIFR, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information)."
+      },
+      {
+        "type": "new_ticker",
+        "ticker": "HUT",
+        "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+        "updatedAt": "2026-06-11T17:54:35Z",
+        "latestSignal": "Named alongside $WULF, $CIFR, $WYFI as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information)."
+      },
+      {
+        "type": "view_changed",
+        "ticker": "NVDA",
+        "previousView": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)",
+        "currentView": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; NVDA framed as \"America's national champion in AI\" with supply chain investment as core thesis)",
+        "updatedAt": "2026-06-11T16:49:50Z",
+        "latestSignal": "Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run \"contrary to our own checks at Computex.\" Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off \"the dumbest selloff I've seen,\" drawing a direct analogy to the prior MU/HBM4-no-share false report. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative."
+      },
+      {
+        "type": "view_changed",
+        "ticker": "INTC",
+        "previousView": "Bullish (top US equity pick)",
+        "currentView": "Bullish (top US equity pick; critical US supply-chain with subsidy validation)",
+        "updatedAt": "2026-06-11T16:13:28Z",
+        "latestSignal": "Serenity reaffirmed $INTC as part of a curated US equities \"goated\" list alongside $MRVL and $ARM. This is notable given Intel's turnaround context — inclusion in this list signals continued conviction despite sector headwinds."
+      },
+      {
+        "type": "view_changed",
         "ticker": "AAOI",
         "previousView": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
-        "currentView": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
-        "updatedAt": "2026-06-11T03:18:16Z",
-        "latestSignal": "Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as \"current favorite US long\" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp."
+        "currentView": "Bullish / High Conviction (current disclosed holding; US photonics domestic-champion thesis)",
+        "updatedAt": "2026-06-11T16:13:28Z",
+        "latestSignal": "Serenity published a Western supply-chain manifesto calling for markets to \"cheer on domestic champions like $AAOI\" instead of outsourcing transceivers to Asia. Reaffirms $471m/month run-rate projection after US reshoring; names $INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE as co-critical Western supply-chain names receiving subsidy validation (CHIPS Act). Draws solar-sector analogy: shorting developing US/Western equities and hedging with subsidized foreign ones \"backfired\" historically and must not repeat in AI photonics. Frames $12B MC as reasonable if $471m/month achieved."
       },
       {
         "type": "new_ticker",
-        "ticker": "FOCI",
-        "currentView": "Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)",
-        "updatedAt": "2026-06-11T03:18:16Z",
-        "latestSignal": "Serenity stated \"I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs\" while noting that \"firms implying you to sell that at $2.5B valuations alongside $HIMX.\" Frames current negative sell-side pressure as a buy signal, using the analogy of SIVE, NBIS, and RKLB institutional-accumulation cycles: \"if you see negative sellside reports or an uncanny wave of negative news, it's a good signal they need liquidity.\" $2.5B valuation is presented as undervaluing the optical-bottleneck potential."
+        "ticker": "SPCX",
+        "currentView": "Macro-observational / IPO catalyst watch (no explicit position disclosed)",
+        "updatedAt": "2026-06-11T15:05:53Z",
+        "latestSignal": "Serenity noted that market-wide correction in $META and $MSFT may be driven by SpaceX-related index rebalancing: \"At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro. Or just liquidity pull from $SPCX + index inclusion. And institutions frontrunning Nasdaq 100 and other rebalancing of SpaceX...\" No explicit buy/sell call; frames SpaceX as now macro-scale enough to drive institutional index-rebalancing flows across the entire market."
       }
     ],
     "changedFiles": [
       {
-        "key": "skill",
-        "path": "serenity-aleabitoreddit/SKILL.md",
-        "lastCommitAt": "2026-06-11T08:01:52Z"
-      },
-      {
         "key": "theses",
         "path": "serenity-aleabitoreddit/references/theses.md",
-        "lastCommitAt": "2026-06-11T10:14:57Z"
-      },
-      {
-        "key": "trackRecord",
-        "path": "serenity-aleabitoreddit/references/track-record.md",
-        "lastCommitAt": "2026-06-11T09:21:33Z"
+        "lastCommitAt": "2026-06-11T19:14:31Z"
       }
     ]
   },
   "latestTickerTheses": [
+    {
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "updatedAt": "2026-06-11T18:19:06Z",
+      "view": "Bullish (top US equity pick)",
+      "latestSignal": "Serenity reaffirmed $MRVL as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings.",
+      "post": "2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2063984786918854663",
+      "keyQuote": "\"Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.\"",
+      "thesisType": "High-conviction US equity list (semiconductor/tech)",
+      "evidenceExcerpt": "- **View**: Bullish (top US equity pick)\n- **Latest signal**: Serenity reaffirmed $MRVL as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings.\n- **Post**: 2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z\n- **Key quote**: \"Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.\"\n- **Thesis type**: High-conviction US equity list (semiconductor/tech)\n- **Prior signals**: Jun 11 18:19 Iran ceasefire macro observation: $MRVL named alongside $SNDK and $LITE as rising on Trump's cancellation of Iran strikes — \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile.\" Not a new buy call; contextual de-escalation catalyst note. [[2065136761077158061]](https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z\n\n---"
+    },
+    {
+      "ticker": "LITE",
+      "company": "Lumentum Holdings",
+      "updatedAt": "2026-06-11T18:19:06Z",
+      "view": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
+      "latestSignal": "Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — \"no delays, as this aligns with previous timelines shared.\" Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): \"The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities.\"",
+      "post": "2064565558432190724 (https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2064565558432190724",
+      "keyQuote": "\"No delays, as this aligns with previous timelines shared … both [NVDA and LITE] are incredibly bullish on TAM and opportunities.\"",
+      "thesisType": "CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain",
+      "evidenceExcerpt": "- **View**: Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)\n- **Latest signal**: Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — \"no delays, as this aligns with previous timelines shared.\" Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): \"The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities.\"\n- **Post**: 2064565558432190724 (https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z\n- **Key quote**: \"No delays, as this aligns with previous timelines shared … both [NVDA and LITE] are incredibly bullish on TAM and opportunities.\"\n- **Thesis type**: CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain\n- **Prior signals**: Jun 11 18:19 Iran ceasefire macro tailwind: $LITE named alongside $SNDK and $MRVL as rising on Trump's cancellation of Iran strikes — \"Trump just cancelled attacks on Iran. This market is so volatile.\" Not a new thesis update; contextual de-escalation catalyst note. [[2065136761077158061]](https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z; Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; TLDR summary reaffirm — \"Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating\" 2064576200211861981\n\n[truncated 597 characters]"
+    },
+    {
+      "ticker": "SNDK",
+      "company": "Sandisk Corp",
+      "updatedAt": "2026-06-11T18:19:06Z",
+      "view": "Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)",
+      "latestSignal": "Serenity named $SNDK alongside $MRVL and $LITE as stocks rising due to Trump's cancellation of Iran strikes: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile.\" This is a market-context observation, not a primary thesis or position announcement.",
+      "post": "2065136761077158061 (https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065136761077158061",
+      "keyQuote": "\"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran.\"",
+      "thesisType": "Geopolitical macro observation (Iran de-escalation tailwind); semiconductor/storage sector (Sandisk Corp); no independent investment thesis",
+      "evidenceExcerpt": "- **View**: Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)\n- **Latest signal**: Serenity named $SNDK alongside $MRVL and $LITE as stocks rising due to Trump's cancellation of Iran strikes: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile.\" This is a market-context observation, not a primary thesis or position announcement.\n- **Post**: 2065136761077158061 (https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z\n- **Key quote**: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran.\"\n- **Thesis type**: Geopolitical macro observation (Iran de-escalation tailwind); semiconductor/storage sector (Sandisk Corp); no independent investment thesis\n- **Caveat**: Passing contextual mention only; Serenity did not express an independent fundamental view on SNDK; no position disclosed; movement attributed entirely to Trump/Iran geopolitical catalyst"
+    },
+    {
+      "ticker": "WULF",
+      "company": "Terawulf Inc",
+      "updatedAt": "2026-06-11T17:54:35Z",
+      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+      "latestSignal": "Serenity flagged Anthropic's first DC leasing push — \"more than a dozen letters of intent with U.S. developers\" per The Information — as a \"potential tailwind for the Neocloud colo sector,\" naming $WULF as one of the direct beneficiaries. No position disclosed.",
+      "post": "2065130589204992048 (https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065130589204992048",
+      "keyQuote": "\"New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet). As Anthropic is pursuing its first DC leases.\"",
+      "thesisType": "Neocloud data-center colocation; Anthropic demand-expansion catalyst (DC-leasing LOI pipeline)",
+      "evidenceExcerpt": "- **View**: Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)\n- **Latest signal**: Serenity flagged Anthropic's first DC leasing push — \"more than a dozen letters of intent with U.S. developers\" per The Information — as a \"potential tailwind for the Neocloud colo sector,\" naming $WULF as one of the direct beneficiaries. No position disclosed.\n- **Post**: 2065130589204992048 (https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z\n- **Key quote**: \"New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet). As Anthropic is pursuing its first DC leases.\"\n- **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst (DC-leasing LOI pipeline)\n- **Caveat**: Observational/research note; no position disclosed; Serenity does not explicitly hold these names\n\n---"
+    },
+    {
+      "ticker": "CIFR",
+      "company": "Cipher Digital Inc",
+      "updatedAt": "2026-06-11T17:54:35Z",
+      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+      "latestSignal": "Named alongside $WULF, $WYFI, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push. Serenity cites The Information reporting on a dozen+ LOIs from Anthropic with U.S. developers.",
+      "post": "2065130589204992048 (https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065130589204992048",
+      "keyQuote": "\"New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet).\"",
+      "thesisType": "Neocloud data-center colocation; Anthropic demand-expansion catalyst",
+      "evidenceExcerpt": "- **View**: Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)\n- **Latest signal**: Named alongside $WULF, $WYFI, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push. Serenity cites The Information reporting on a dozen+ LOIs from Anthropic with U.S. developers.\n- **Post**: 2065130589204992048 (https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z\n- **Key quote**: \"New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet).\"\n- **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst\n- **Caveat**: Observational/research note; no position disclosed\n\n---"
+    },
+    {
+      "ticker": "WYFI",
+      "company": "WhiteFiber Inc",
+      "updatedAt": "2026-06-11T17:54:35Z",
+      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+      "latestSignal": "Named alongside $WULF, $CIFR, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information).",
+      "post": "2065130589204992048 (https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065130589204992048",
+      "keyQuote": "\"New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet).\"",
+      "thesisType": "Neocloud data-center colocation; Anthropic demand-expansion catalyst",
+      "evidenceExcerpt": "- **View**: Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)\n- **Latest signal**: Named alongside $WULF, $CIFR, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information).\n- **Post**: 2065130589204992048 (https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z\n- **Key quote**: \"New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet).\"\n- **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst\n- **Caveat**: Observational/research note; no position disclosed\n\n---"
+    },
+    {
+      "ticker": "HUT",
+      "company": "Hut 8 Corp",
+      "updatedAt": "2026-06-11T17:54:35Z",
+      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+      "latestSignal": "Named alongside $WULF, $CIFR, $WYFI as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information).",
+      "post": "2065130589204992048 (https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065130589204992048",
+      "keyQuote": "\"New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet).\"",
+      "thesisType": "Neocloud data-center colocation; Anthropic demand-expansion catalyst",
+      "evidenceExcerpt": "- **View**: Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)\n- **Latest signal**: Named alongside $WULF, $CIFR, $WYFI as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information).\n- **Post**: 2065130589204992048 (https://x.com/aleabitoreddit/status/2065130589204992048) — 2026-06-11T17:54:35Z\n- **Key quote**: \"New Anthropic news looks like a potential tailwind for the Neocloud colo sector. Such as $WULF, $CIFR, $WYFI, $HUT and others (not named yet).\"\n- **Thesis type**: Neocloud data-center colocation; Anthropic demand-expansion catalyst\n- **Caveat**: Observational/research note; no position disclosed\n\n---"
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corp",
+      "updatedAt": "2026-06-11T16:49:50Z",
+      "view": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; NVDA framed as \"America's national champion in AI\" with supply chain investment as core thesis)",
+      "latestSignal": "Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run \"contrary to our own checks at Computex.\" Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off \"the dumbest selloff I've seen,\" drawing a direct analogy to the prior MU/HBM4-no-share false report. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative.",
+      "post": "2064660831405805648 (https://x.com/aleabitoreddit/status/2064660831405805648) — 2026-06-10T10:47:56Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2064660831405805648",
+      "keyQuote": "\"Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back. Recent SemiAnalysis reports run contrary to our own checks at Computex. Bro this has gotta be the dumbest CPO/800V selloff I've seen.\"",
+      "thesisType": "AI data center / CPO optical networking supply-chain; buy-the-dip on false analyst report (SemiAnalysis pattern now corroborated by sell-side); national champion + supply chain investment theme",
+      "evidenceExcerpt": "- **View**: Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; NVDA framed as \"America's national champion in AI\" with supply chain investment as core thesis)\n- **Latest signal**: Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run \"contrary to our own checks at Computex.\" Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off \"the dumbest selloff I've seen,\" drawing a direct analogy to the prior MU/HBM4-no-share false report. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative.\n- **Post**: 2064660831405805648 (https://x.com/aleabitoreddit/status/2064660831405805648) — 2026-06-10T10:47:56Z\n- **Key quote**: \"Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back. Recent SemiAnalysis reports run contrary to our own checks at Computex. Bro this has gotta be the dumbest CPO/800V selloff I've seen.\"\n- **Thesis type**: AI data center / CPO optical networking supply-chain; buy-the-dip on false analyst report (SemiAnalysis pattern now corroborated by sell-side); national champion + supply chain investment theme\n- **Prior signals**: Jun 11 16:49 supply-chain investment reaffirmation: \"It's investing in $NVDA, America's national champion in AI, and securing their supply chains... funding upstream red phosphorus/InP substrate capacity or SiC/GaN capacity... it builds up Western supply chains to make what's technologically challenging, possible. Also I believe in Jensen.\" [[2065114293767741950]](https://x.com/aleabitoreddit/status/2065114293767741950) — 2026-06-11T16:49:50Z; TLDR NVDA+LITE \"Bullish on CPO, timelines accelerating\" 206\n\n[truncated 545 characters]"
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "updatedAt": "2026-06-11T16:13:28Z",
+      "view": "Bullish (top US equity pick; critical US supply-chain with subsidy validation)",
+      "latestSignal": "Serenity reaffirmed $INTC as part of a curated US equities \"goated\" list alongside $MRVL and $ARM. This is notable given Intel's turnaround context — inclusion in this list signals continued conviction despite sector headwinds.",
+      "post": "2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2063984786918854663",
+      "keyQuote": "\"Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.\"",
+      "thesisType": "High-conviction US equity list (semiconductor/tech); critical AI supply-chain / CHIPS Act validation",
+      "evidenceExcerpt": "- **View**: Bullish (top US equity pick; critical US supply-chain with subsidy validation)\n- **Latest signal**: Serenity reaffirmed $INTC as part of a curated US equities \"goated\" list alongside $MRVL and $ARM. This is notable given Intel's turnaround context — inclusion in this list signals continued conviction despite sector headwinds.\n- **Post**: 2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z\n- **Key quote**: \"Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.\"\n- **Thesis type**: High-conviction US equity list (semiconductor/tech); critical AI supply-chain / CHIPS Act validation\n- **Prior signals**: Jun 11 16:13 supply-chain validation: \"$INTC... critical to US supply chains. And every one of them are getting subsidies for securing Western supply chains.\" Named alongside $AAOI, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE as CHIPS Act / subsidy beneficiaries in Serenity's Western supply-chain manifesto [[2065105141238489398]](https://x.com/aleabitoreddit/status/2065105141238489398) — 2026-06-11T16:13:28Z\n\n---"
+    },
+    {
+      "ticker": "AAOI",
+      "company": "Applied Optoelectronics",
+      "updatedAt": "2026-06-11T16:13:28Z",
+      "view": "Bullish / High Conviction (current disclosed holding; US photonics domestic-champion thesis)",
+      "latestSignal": "Serenity published a Western supply-chain manifesto calling for markets to \"cheer on domestic champions like $AAOI\" instead of outsourcing transceivers to Asia. Reaffirms $471m/month run-rate projection after US reshoring; names $INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE as co-critical Western supply-chain names receiving subsidy validation (CHIPS Act). Draws solar-sector analogy: shorting developing US/Western equities and hedging with subsidized foreign ones \"backfired\" historically and must not repeat in AI photonics. Frames $12B MC as reasonable if $471m/month achieved.",
+      "post": "2065105141238489398 (https://x.com/aleabitoreddit/status/2065105141238489398) — 2026-06-11T16:13:28Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065105141238489398",
+      "keyQuote": "\"Markets should be cheering on domestic champions like $AAOI... Especially if $AAOI hits their $471m/month projections after reshoring their production to America. Instead of hoping they fail and calling critical nodes in the supply chains memestocks/bubbles, maybe it's good to change mindsets a bit so we don't see a repeat of the US Solar sector years later.\"",
+      "thesisType": "US optical transceiver / laser-fab (InP-based); 800G/1.6T demand; domestic-champion reshoring narrative; CHIPS Act supply-chain validation; current disclosed holding",
+      "evidenceExcerpt": "- **View**: Bullish / High Conviction (current disclosed holding; US photonics domestic-champion thesis)\n- **Latest signal**: Serenity published a Western supply-chain manifesto calling for markets to \"cheer on domestic champions like $AAOI\" instead of outsourcing transceivers to Asia. Reaffirms $471m/month run-rate projection after US reshoring; names $INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE as co-critical Western supply-chain names receiving subsidy validation (CHIPS Act). Draws solar-sector analogy: shorting developing US/Western equities and hedging with subsidized foreign ones \"backfired\" historically and must not repeat in AI photonics. Frames $12B MC as reasonable if $471m/month achieved.\n- **Post**: 2065105141238489398 (https://x.com/aleabitoreddit/status/2065105141238489398) — 2026-06-11T16:13:28Z\n- **Key quote**: \"Markets should be cheering on domestic champions like $AAOI... Especially if $AAOI hits their $471m/month projections after reshoring their production to America. Instead of hoping they fail and calling critical nodes in the supply chains memestocks/bubbles, maybe it's good to change mindsets a bit so we don't see a repeat of the US Solar sector years later.\"\n- **Thesis type**: US optical transceiver / laser-fab (InP-based); 800G/1.6T demand; domestic-champion reshoring narrative; CHIPS Act supply-chain validation; current disclosed holding\n- **Prior signals**: Jun 11 03:18 CPO-drawback portfolio acknowledgment: mentions $AAOI alongside Foci/Shunsin/$SOI as CPO positions experiencing 'disappointing week' despite YTD self-reported +3,612.10%; reaffirms thesis — '如果 Alpha 足够强，不管宏观大环境如何，这些股票都应该继续涨才对' (if Alpha is strong enough, these should keep rising regardless of macro) [[2064910057767309551]](https://x.com/aleabitoreddit/status/206491005776730955\n\n[truncated 899 characters]"
+    },
+    {
+      "ticker": "SPCX",
+      "company": "SpaceX",
+      "updatedAt": "2026-06-11T15:05:53Z",
+      "view": "Macro-observational / IPO catalyst watch (no explicit position disclosed)",
+      "latestSignal": "Serenity noted that market-wide correction in $META and $MSFT may be driven by SpaceX-related index rebalancing: \"At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro. Or just liquidity pull from $SPCX + index inclusion. And institutions frontrunning Nasdaq 100 and other rebalancing of SpaceX...\" No explicit buy/sell call; frames SpaceX as now macro-scale enough to drive institutional index-rebalancing flows across the entire market.",
+      "post": "2065088136884220158 (https://x.com/aleabitoreddit/status/2065088136884220158) — 2026-06-11T15:05:53Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065088136884220158",
+      "keyQuote": "\"At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro. Or just liquidity pull from $SPCX + index inclusion. And institutions frontrunning Nasdaq 100 and other rebalancing of SpaceX...\"",
+      "thesisType": "SpaceX IPO mega-event macro observation; index-rebalancing market-structure commentary; related to $LPK SpaceX supply-chain discovery and $SIVE institutional-accumulation pre-IPO thesis",
+      "evidenceExcerpt": "- **View**: Macro-observational / IPO catalyst watch (no explicit position disclosed)\n- **Latest signal**: Serenity noted that market-wide correction in $META and $MSFT may be driven by SpaceX-related index rebalancing: \"At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro. Or just liquidity pull from $SPCX + index inclusion. And institutions frontrunning Nasdaq 100 and other rebalancing of SpaceX...\" No explicit buy/sell call; frames SpaceX as now macro-scale enough to drive institutional index-rebalancing flows across the entire market.\n- **Post**: 2065088136884220158 (https://x.com/aleabitoreddit/status/2065088136884220158) — 2026-06-11T15:05:53Z\n- **Key quote**: \"At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro. Or just liquidity pull from $SPCX + index inclusion. And institutions frontrunning Nasdaq 100 and other rebalancing of SpaceX...\"\n- **Thesis type**: SpaceX IPO mega-event macro observation; index-rebalancing market-structure commentary; related to $LPK SpaceX supply-chain discovery and $SIVE institutional-accumulation pre-IPO thesis\n- **Prior signals**: Jun 11 14:07 Frankfurt Bank strategist note: \"8% of US current-account deficit could be refinanced in a single day by overseas demand for SpaceX ($SPCX) shares\" — SpaceX IPO framed as historically unprecedented mega-event [[2065073494220849660]](https://x.com/aleabitoreddit/status/2065073494220849660) — 2026-06-11T14:07:42Z\n- **Note**: $SPCX references SpaceX's expected public listing ticker. These are macro market-structure observations, not position entry/exit signals. Connected supply-chain plays: $LPK (disclosed SpaceX supplier in US import logs), $SIVE (space/defense photonics with pre-IPO institutional accumula\n\n[truncated 21 characters]"
+    },
     {
       "ticker": "XFAB",
       "company": "X-FAB Silicon Foundries SE",
@@ -88,7 +248,7 @@
       "postUrl": "https://x.com/aleabitoreddit/status/2065009883133644963",
       "keyQuote": "\"Somehow it's leading EU's efforts to create a $TSEM silicon photonics foundry + supply chain at ~€1.1B MC? That R&D directors from ASE cite + others as future CPO routes.\"",
       "thesisType": "EU silicon photonics foundry / CPO supply-chain alternative ($TSEM/$GFS peer); NVDA-evaluated; development-stage → production 2027–2028; Europe-backed",
-      "evidenceExcerpt": "- **View**: Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. \"automaker supplier\" perception)\n- **Latest signal**: Serenity framed $XFAB as the leading EU effort to build a silicon photonics foundry alternative to $TSEM and $GFS, backed by European government support with active NVDA evaluations underway. At ~€1.1B market cap, Serenity argues markets still price it as a \"depressed automaker supplier,\" ignoring its silicon photonics foundry roadmap: development finishing Oct 2026, production scaling 2027, mass production 2028 (working since 2023). R&D directors from ASE cite $XFAB as a future CPO (Co-Packaged Optics) route. Serenity explicitly acknowledges being \"might just really early\" and that risk/reward depends on commercialization execution. Also explicitly names $TSEM as the \"de-risked route\" for those wanting lower-risk photonics exposure.\n- **Post**: 2065009883133644963 (https://x.com/aleabitoreddit/status/2065009883133644963) — 2026-06-11T09:54:56Z\n- **Key quote**: \"Somehow it's leading EU's efforts to create a $TSEM silicon photonics foundry + supply chain at ~€1.1B MC? That R&D directors from ASE cite + others as future CPO routes.\"\n- **Thesis type**: EU silicon photonics foundry / CPO supply-chain alternative ($TSEM/$GFS peer); NVDA-evaluated; development-stage → production 2027–2028; Europe-backed\n- **Risk**: Development stage — Oct 2026 completion target not yet proven; current \"automaker supplier\" earnings base provides limited near-term re-rating catalysts; Serenity explicitly acknowledges being \"early\"; position size / conviction level not disclosed; $TSEM named as the \"de-risked route\" for lower-risk exposure to the same photonics thesis"
+      "evidenceExcerpt": "- **View**: Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. \"automaker supplier\" perception)\n- **Latest signal**: Serenity framed $XFAB as the leading EU effort to build a silicon photonics foundry alternative to $TSEM and $GFS, backed by European government support with active NVDA evaluations underway. At ~€1.1B market cap, Serenity argues markets still price it as a \"depressed automaker supplier,\" ignoring its silicon photonics foundry roadmap: development finishing Oct 2026, production scaling 2027, mass production 2028 (working since 2023). R&D directors from ASE cite $XFAB as a future CPO (Co-Packaged Optics) route. Serenity explicitly acknowledges being \"might just really early\" and that risk/reward depends on commercialization execution. Also explicitly names $TSEM as the \"de-risked route\" for those wanting lower-risk photonics exposure.\n- **Post**: 2065009883133644963 (https://x.com/aleabitoreddit/status/2065009883133644963) — 2026-06-11T09:54:56Z\n- **Key quote**: \"Somehow it's leading EU's efforts to create a $TSEM silicon photonics foundry + supply chain at ~€1.1B MC? That R&D directors from ASE cite + others as future CPO routes.\"\n- **Thesis type**: EU silicon photonics foundry / CPO supply-chain alternative ($TSEM/$GFS peer); NVDA-evaluated; development-stage → production 2027–2028; Europe-backed\n- **Risk**: Development stage — Oct 2026 completion target not yet proven; current \"automaker supplier\" earnings base provides limited near-term re-rating catalysts; Serenity explicitly acknowledges being \"early\"; position size / conviction level not disclosed; $TSEM named as the \"de-risked route\" for lower-risk exposure to the same photonics thesis\n\n---"
     },
     {
       "ticker": "LPK",
@@ -127,18 +287,6 @@
       "evidenceExcerpt": "- **View**: Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry\n- **Latest signal**: Reuters report confirms China's control over InP threatens the AI DC buildout; Serenity frames AXTI as the prescient supply-chain call: \"Who could have guessed $AXTI would have been a major point of failure?\" This is thesis validation, *not* a new buy signal. Position from Dec 2025 at ~$700M MC delivered 1,057%+ gains by Apr 24 2026; Serenity explicitly stated \"not a buy now, do not short\" at 1,057%+ level. Reuters confirmation means the InP bottleneck thesis is now acknowledged by mainstream financial media — typically a late-cycle validation, not a fresh entry.\n- **Post**: 2064942505553170886 (https://x.com/aleabitoreddit/status/2064942505553170886) — 2026-06-11T05:27:12Z\n- **Key quote**: \"Who could have guessed $AXTI would have been a major point of failure?\"\n- **Thesis type**: InP compound semiconductor substrate (US-based monopoly); AI DC supply-chain bottleneck confirmed by Reuters; indirect read-through for InP-dependent names ($AAOI, $SIVE, $JBL ecosystem)\n- **Prior signals**: Dec 26 2025 flagship thesis ~$700M MC (5.47M views); Jan 6 2026 China export ban +14%; Jan 8 -29.54% AH miss held; Feb 25 +310% in 2 months; Mar 2 ~4x from entry; Apr 24 \"1057% gains – not a buy now, do not short\"; Jun 11 Reuters InP/China mainstream validation\n\n---"
     },
     {
-      "ticker": "AAOI",
-      "company": "Applied Optoelectronics",
-      "updatedAt": "2026-06-11T03:18:16Z",
-      "view": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
-      "latestSignal": "Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as \"current favorite US long\" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp.",
-      "post": "2064314680521507114 (https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z",
-      "postUrl": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "keyQuote": "\"(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go.\"",
-      "thesisType": "US optical transceiver / laser-fab (InP-based); 800G/1.6T demand; JBL/1.6T LRO ramp partner; current disclosed holding",
-      "evidenceExcerpt": "- **View**: Bullish / High Conviction (current disclosed holding; US photonics favorite)\n- **Latest signal**: Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as \"current favorite US long\" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp.\n- **Post**: 2064314680521507114 (https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z\n- **Key quote**: \"(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go.\"\n- **Thesis type**: US optical transceiver / laser-fab (InP-based); 800G/1.6T demand; JBL/1.6T LRO ramp partner; current disclosed holding\n- **Prior signals**: Jun 11 03:18 CPO-drawback portfolio acknowledgment: mentions $AAOI alongside Foci/Shunsin/$SOI as CPO positions experiencing 'disappointing week' despite YTD self-reported +3,612.10%; reaffirms thesis — '如果 Alpha 足够强，不管宏观大环境如何，这些股票都应该继续涨才对' (if Alpha is strong enough, these should keep rising regardless of macro); framed as a learning process about how markets price different themes/supply-chain segments [[2064910057767309551]](https://x.com/aleabitoreddit/status/2064910057767309551) — 2026-06-11T03:18:16Z; Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; Formal long Dec 2025; tripled Feb 2026; \"favorite US long\" Jun 5 2026; averaging up since ~$28 through $150-$170; AMD/NVDA optical discussions ongoing; projected $4\n\n[truncated 301 characters]"
-    },
-    {
       "ticker": "FOCI",
       "company": "3363",
       "updatedAt": "2026-06-11T03:18:16Z",
@@ -149,30 +297,6 @@
       "keyQuote": "\"I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs and now there's firms implying you to sell that at $2.5B valuations alongside $HIMX.\"",
       "thesisType": "Optical networking / CPO supply-chain bottleneck (NVDA + TSM ecosystem); institutional-accumulation pattern play",
       "evidenceExcerpt": "- **View**: Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)\n- **Latest signal**: Serenity stated \"I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs\" while noting that \"firms implying you to sell that at $2.5B valuations alongside $HIMX.\" Frames current negative sell-side pressure as a buy signal, using the analogy of SIVE, NBIS, and RKLB institutional-accumulation cycles: \"if you see negative sellside reports or an uncanny wave of negative news, it's a good signal they need liquidity.\" $2.5B valuation is presented as undervaluing the optical-bottleneck potential.\n- **Post**: 2064884912667439129 (https://x.com/aleabitoreddit/status/2064884912667439129) — 2026-06-11T01:38:21Z\n- **Key quote**: \"I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs and now there's firms implying you to sell that at $2.5B valuations alongside $HIMX.\"\n- **Thesis type**: Optical networking / CPO supply-chain bottleneck (NVDA + TSM ecosystem); institutional-accumulation pattern play\n- **Prior signals**: Jun 11 03:18 CPO-cluster drawback acknowledgment: mentions Foci alongside Shunsin/$SOI/$AAOI as CPO positions with 'disappointing week'; reaffirms conviction that these should keep rising 'if Alpha is strong enough' regardless of macro [[2064910057767309551]](https://x.com/aleabitoreddit/status/2064910057767309551) — 2026-06-11T03:18:16Z; Jun 3 Taiwan CPO longs day: Foci +~10% alongside Shunsin/Xintec; May 25 MSSCorps/FOCI named in UDN article on TSM COUPE + AI optical markets; May 30 one-year MC prediction: \"FOCI $15B\" (alongside AAOI $70B, SIVE $30B, Shunsin $10B); Jun 3 named as part of Taiwan CPO best risk/reward group (with SIVE, AAOI, Shunsin)\n\n---"
-    },
-    {
-      "ticker": "LITE",
-      "company": "Lumentum Holdings",
-      "updatedAt": "2026-06-10T13:44:57Z",
-      "view": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
-      "latestSignal": "Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — \"no delays, as this aligns with previous timelines shared.\" Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): \"The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities.\"",
-      "post": "2064565558432190724 (https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z",
-      "postUrl": "https://x.com/aleabitoreddit/status/2064565558432190724",
-      "keyQuote": "\"No delays, as this aligns with previous timelines shared … both [NVDA and LITE] are incredibly bullish on TAM and opportunities.\"",
-      "thesisType": "CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain",
-      "evidenceExcerpt": "- **View**: Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)\n- **Latest signal**: Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — \"no delays, as this aligns with previous timelines shared.\" Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): \"The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities.\"\n- **Post**: 2064565558432190724 (https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z\n- **Key quote**: \"No delays, as this aligns with previous timelines shared … both [NVDA and LITE] are incredibly bullish on TAM and opportunities.\"\n- **Thesis type**: CPO Scale-Up optical components; AI data center next-gen interconnect supply-chain\n- **Prior signals**: Jun 10 13:44 recovery reaffirmation: 'optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should. The initial selloff was just stupid.' [[2064705380933074945]](https://x.com/aleabitoreddit/status/2064705380933074945) — 2026-06-10T13:44:57Z; TLDR summary reaffirm — \"Nvidia and Lumentum executives after: Bullish on CPO, timelines accelerating\" 2064576200211861981 (https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z; Initial LITE Mizuho confirmation 2064521404859719681 (https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z (\"The company expects to start shipping Scale-Up optical products in the second half of 2027, with formal volume ramp-up in 2028\"); Mid-cap AI Watchlist (n\n\n[truncated 225 characters]"
-    },
-    {
-      "ticker": "NVDA",
-      "company": "NVIDIA Corp",
-      "updatedAt": "2026-06-10T10:47:56Z",
-      "view": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)",
-      "latestSignal": "Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run \"contrary to our own checks at Computex.\" Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off \"the dumbest selloff I've seen,\" drawing a direct analogy to the prior MU/HBM4-no-share false report that caused a sell-off before Micron entered mass production and delivered triple-digit returns. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative, with Serenity framing this as a clear buying opportunity.",
-      "post": "2064660831405805648 (https://x.com/aleabitoreddit/status/2064660831405805648) — 2026-06-10T10:47:56Z",
-      "postUrl": "https://x.com/aleabitoreddit/status/2064660831405805648",
-      "keyQuote": "\"Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back. Recent SemiAnalysis reports run contrary to our own checks at Computex. Bro this has gotta be the dumbest CPO/800V selloff I've seen.\"",
-      "thesisType": "AI data center / CPO optical networking supply-chain; buy-the-dip on false analyst report (SemiAnalysis pattern now corroborated by sell-side)",
-      "evidenceExcerpt": "- **View**: Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)\n- **Latest signal**: Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run \"contrary to our own checks at Computex.\" Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off \"the dumbest selloff I've seen,\" drawing a direct analogy to the prior MU/HBM4-no-share false report that caused a sell-off before Micron entered mass production and delivered triple-digit returns. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative, with Serenity framing this as a clear buying opportunity.\n- **Post**: 2064660831405805648 (https://x.com/aleabitoreddit/status/2064660831405805648) — 2026-06-10T10:47:56Z\n- **Key quote**: \"Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back. Recent SemiAnalysis reports run contrary to our own checks at Computex. Bro this has gotta be the dumbest CPO/800V selloff I've seen.\"\n- **Thesis type**: AI data center / CPO optical networking supply-chain; buy-the-dip on false analyst report (SemiAnalysis pattern now corroborated by sell-side)\n- **Prior signals**: TLDR NVDA+LITE \"Bullish on CPO, timelines accelerating\" 2064576200211861981 (https://x.com/aleabitoreddit/status/2064576200211861981) — 2026-06-10T05:11:38Z; NVDA Networking SVP Gilad confirmed H2 CPO mass-production ramp 2064554061253451815 (https://x.com/aleabitoreddit/status/2064554061253451815) — 2026-06-10T03:43:40Z; Joint NVDA+LITE synthesis 2064565558432190724 (https://x.com/aleabitoreddit/status/2064565558432190724) — 2026-06-10T04:29:21Z; Foxconn o\n\n[truncated 143 characters]"
     },
     {
       "ticker": "MU",
@@ -235,18 +359,6 @@
       "evidenceExcerpt": "- **View**: Tentatively bullish (speculative research idea, no position held)\n- **Latest signal**: Serenity flagged $JBL as a \"highkey compelling long idea at $38B\" — arguing markets haven't priced in the 1.6T LRO pluggable transceiver business, especially if $SIVE becomes the laser bottleneck through H1 2027. Jabil took over $INTC pluggable lines and is positioned as more scalable than $AAOI's capex-heavy laser-fab approach: if $SIVE + diverse fabs (Win Semi + others) supply lasers and $JBL handles final assembly, that creates an Innolight-style vertically-integrated setup with already-validated hyperscaler relationships and US-production premiums. Potential 40% re-rating by H1 2027.\n- **Post**: 2064237083510952402 (https://x.com/aleabitoreddit/status/2064237083510952402) — 2026-06-09T06:44:07Z\n- **Key quote**: \"$JBL seems highkey compelling long idea at $38B...markets have not priced in their 1.6T LRO pluggable transceiver business yet...especially if it's 'how much can you make' with $SIVE as the bottleneck H1 2027...Prob H1 2027 is when everyone starts realizing. Maybe 40% re-rating seems plausible?\"\n- **Thesis type**: Pluggable transceiver / AI DC supply-chain play (adjacent to $SIVE photonics thesis)\n- **Caveat**: Serenity explicitly states no current position; forward research idea, not an active call. June 9 AI mid-cap list confirms no position held (holdings limited to NBIS/TSEM/AAOI).\n\n---"
     },
     {
-      "ticker": "MRVL",
-      "company": "Marvell Technology",
-      "updatedAt": "2026-06-08T14:01:34Z",
-      "view": "Bullish (top US equity pick)",
-      "latestSignal": "Serenity reaffirmed $MRVL as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings.",
-      "post": "2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z",
-      "postUrl": "https://x.com/aleabitoreddit/status/2063984786918854663",
-      "keyQuote": "\"Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.\"",
-      "thesisType": "High-conviction US equity list (semiconductor/tech)",
-      "evidenceExcerpt": "- **View**: Bullish (top US equity pick)\n- **Latest signal**: Serenity reaffirmed $MRVL as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings.\n- **Post**: 2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z\n- **Key quote**: \"Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.\"\n- **Thesis type**: High-conviction US equity list (semiconductor/tech)\n\n---"
-    },
-    {
       "ticker": "ARM",
       "company": "ARM Holdings",
       "updatedAt": "2026-06-08T14:01:34Z",
@@ -257,18 +369,6 @@
       "keyQuote": "\"Still think this US list from $MRVL to $ARM to $INTC was goated. Especially because I've been talking about international companies recently.\"",
       "thesisType": "High-conviction US equity list (semiconductor/tech)",
       "evidenceExcerpt": "- **View**: Bullish (top US equity pick)\n- **Latest signal**: Serenity reaffirmed $ARM as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names. Context: Serenity noted they have been discussing international companies recently, but reaffirmed the US list including $ARM remains favored.\n- **Post**: 2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z\n- **Key quote**: \"Still think this US list from $MRVL to $ARM to $INTC was goated. Especially because I've been talking about international companies recently.\"\n- **Thesis type**: High-conviction US equity list (semiconductor/tech)\n\n---"
-    },
-    {
-      "ticker": "INTC",
-      "company": "Intel",
-      "updatedAt": "2026-06-08T14:01:34Z",
-      "view": "Bullish (top US equity pick)",
-      "latestSignal": "Serenity reaffirmed $INTC as part of a curated US equities \"goated\" list alongside $MRVL and $ARM. This is notable given Intel's turnaround context — inclusion in this list signals continued conviction despite sector headwinds.",
-      "post": "2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z",
-      "postUrl": "https://x.com/aleabitoreddit/status/2063984786918854663",
-      "keyQuote": "\"Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.\"",
-      "thesisType": "High-conviction US equity list (semiconductor/tech)",
-      "evidenceExcerpt": "- **View**: Bullish (top US equity pick)\n- **Latest signal**: Serenity reaffirmed $INTC as part of a curated US equities \"goated\" list alongside $MRVL and $ARM. This is notable given Intel's turnaround context — inclusion in this list signals continued conviction despite sector headwinds.\n- **Post**: 2063984786918854663 (https://x.com/aleabitoreddit/status/2063984786918854663) — 2026-06-08T14:01:34Z\n- **Key quote**: \"Still think this US list from $MRVL to $ARM to $INTC was goated. Just as a recap if new followers were wondering what US equities I like.\"\n- **Thesis type**: High-conviction US equity list (semiconductor/tech)\n\n---"
     }
   ],
   "latestDailyBrief": {

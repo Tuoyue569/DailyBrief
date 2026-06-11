@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T12:59:34.687Z",
+  "generatedAt": "2026-06-11T21:32:47.302Z",
   "files": {
     "skill": {
       "sha": "785277f2c4272d4be1e168595907d442b60bb7e4",
@@ -10,8 +10,8 @@
       "lastCommitAt": "2026-06-03T03:04:57Z"
     },
     "theses": {
-      "sha": "47011caf5b0b1c6e841c91dfc13fb58eef5b7f07",
-      "lastCommitAt": "2026-06-11T10:14:57Z"
+      "sha": "d2f81a2caceaedab517f5531e052b439004d4d52",
+      "lastCommitAt": "2026-06-11T19:14:31Z"
     },
     "articles": {
       "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
@@ -23,6 +23,61 @@
     }
   },
   "thesesByTicker": {
+    "MRVL": {
+      "fingerprint": "ce1f4d1240a7a055d30864c0ddd8a3a7ba130a4810c4730aa9d3011b57d53872",
+      "view": "Bullish (top US equity pick)",
+      "updatedAt": "2026-06-11T18:19:06Z"
+    },
+    "LITE": {
+      "fingerprint": "d433b0f899f56cf690f9dcdb121666f47d6500501c2a90b0f7b5a622098246ea",
+      "view": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
+      "updatedAt": "2026-06-11T18:19:06Z"
+    },
+    "SNDK": {
+      "fingerprint": "91a10d0fde7f2e4c5dc0715a834dab3e0ad23351d62aa459c0f12fbf6715bf41",
+      "view": "Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)",
+      "updatedAt": "2026-06-11T18:19:06Z"
+    },
+    "WULF": {
+      "fingerprint": "6240a4c92e5a1a3a9eebcf015fb76f4bc3efc1525e52d1d25b2293d79d7fe801",
+      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+      "updatedAt": "2026-06-11T17:54:35Z"
+    },
+    "CIFR": {
+      "fingerprint": "f459e7d19e2e8cc79cf67059dd57bc49898a910f2eadaf2a2a7e061d72e53cf9",
+      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+      "updatedAt": "2026-06-11T17:54:35Z"
+    },
+    "WYFI": {
+      "fingerprint": "43f915da79b4d2b4e2e80d2bd14e8804993444b9a9c9d79c4c1dc9702af507b0",
+      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+      "updatedAt": "2026-06-11T17:54:35Z"
+    },
+    "HUT": {
+      "fingerprint": "1842181dd90982e474eb252e8c0a69793f564cabae6a4edb6d1add2936a08704",
+      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
+      "updatedAt": "2026-06-11T17:54:35Z"
+    },
+    "NVDA": {
+      "fingerprint": "ea1a9fee25b98183117995774320c90dcb36129784155626a11fd54891f36610",
+      "view": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; NVDA framed as \"America's national champion in AI\" with supply chain investment as core thesis)",
+      "updatedAt": "2026-06-11T16:49:50Z"
+    },
+    "INTC": {
+      "fingerprint": "7111b76af02b07bf9f0b480ededa85675029fe21873d0be7849d4bbaa471dd8d",
+      "view": "Bullish (top US equity pick; critical US supply-chain with subsidy validation)",
+      "updatedAt": "2026-06-11T16:13:28Z"
+    },
+    "AAOI": {
+      "fingerprint": "7abf1e32397cb1cf6e44bf9f233fa6bbd25eb5e0766822ceeda61b3f954d70c1",
+      "view": "Bullish / High Conviction (current disclosed holding; US photonics domestic-champion thesis)",
+      "updatedAt": "2026-06-11T16:13:28Z"
+    },
+    "SPCX": {
+      "fingerprint": "1b930399675e416d7b59af47d0656898c5fd0b85d00f6c02838f837652a9742d",
+      "view": "Macro-observational / IPO catalyst watch (no explicit position disclosed)",
+      "updatedAt": "2026-06-11T15:05:53Z"
+    },
     "XFAB": {
       "fingerprint": "e97e50193ae3fb845aeffe2183bb210ff797e52699893e886843d5b78f43b2b9",
       "view": "Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. \"automaker supplier\" perception)",
@@ -43,25 +98,10 @@
       "view": "Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry",
       "updatedAt": "2026-06-11T05:27:12Z"
     },
-    "AAOI": {
-      "fingerprint": "a3c0f5ebe27c478b616bdfdff164413173a04f8df2ff30a501ce6af1acd12bfb",
-      "view": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
-      "updatedAt": "2026-06-11T03:18:16Z"
-    },
     "FOCI": {
       "fingerprint": "84ab44b37fb88e097248f7c6a76dd9b22718ccf585074ba88e3adcb85b6563d7",
       "view": "Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)",
       "updatedAt": "2026-06-11T03:18:16Z"
-    },
-    "LITE": {
-      "fingerprint": "d958ed75bbfce98883bc0f2afd486261616679536c5a2e4eedbe4e018a71332d",
-      "view": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
-      "updatedAt": "2026-06-10T13:44:57Z"
-    },
-    "NVDA": {
-      "fingerprint": "bcc47bbf3fe722d5a0783f58081c10fd2522b9997220f0428777f16f038c8454",
-      "view": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)",
-      "updatedAt": "2026-06-10T10:47:56Z"
     },
     "MU": {
       "fingerprint": "a1c3f02fcd32bccab50c4d96056ddfd60309f5e04ea58d450a975f4338a9eb07",
@@ -88,18 +128,8 @@
       "view": "Tentatively bullish (speculative research idea, no position held)",
       "updatedAt": "2026-06-09T06:44:07Z"
     },
-    "MRVL": {
-      "fingerprint": "d809d4fe2139f19c4610e52c9999651af2f8412fe9c0848d95b26f4a0457b811",
-      "view": "Bullish (top US equity pick)",
-      "updatedAt": "2026-06-08T14:01:34Z"
-    },
     "ARM": {
       "fingerprint": "f4adc971a92a36b903390f1ff13d06fdf39e08935ff0e3e5467f76d9c0194f75",
-      "view": "Bullish (top US equity pick)",
-      "updatedAt": "2026-06-08T14:01:34Z"
-    },
-    "INTC": {
-      "fingerprint": "82c4200ea4bf5daad2c1fd7cb15acc7b6b6912eb88ee37b72ab9a2b7178a0db1",
       "view": "Bullish (top US equity pick)",
       "updatedAt": "2026-06-08T14:01:34Z"
     }
