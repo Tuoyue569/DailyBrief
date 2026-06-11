@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-10T22:59:25.927Z",
-  "comparedWithPreviousSnapshotAt": "2026-06-10T16:34:12.475Z",
+  "generatedAt": "2026-06-11T12:59:34.687Z",
+  "comparedWithPreviousSnapshotAt": "2026-06-10T22:59:25.927Z",
   "initialSnapshot": false,
-  "anyChange": false,
+  "anyChange": true,
   "fileChanges": [
     {
       "key": "skill",
       "path": "serenity-aleabitoreddit/SKILL.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "0eeb1a9c36b98e453c46a6189ec3976a4d991544",
-      "currentSha": "0eeb1a9c36b98e453c46a6189ec3976a4d991544",
-      "lastCommitAt": "2026-06-08T09:14:26Z",
+      "currentSha": "785277f2c4272d4be1e168595907d442b60bb7e4",
+      "lastCommitAt": "2026-06-11T08:01:52Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/SKILL.md"
     },
     {
@@ -25,10 +25,10 @@
     {
       "key": "theses",
       "path": "serenity-aleabitoreddit/references/theses.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "0a15641a135a00596cf83ba6f70d70b04ee8c034",
-      "currentSha": "0a15641a135a00596cf83ba6f70d70b04ee8c034",
-      "lastCommitAt": "2026-06-10T14:06:24Z",
+      "currentSha": "47011caf5b0b1c6e841c91dfc13fb58eef5b7f07",
+      "lastCommitAt": "2026-06-11T10:14:57Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/theses.md"
     },
     {
@@ -43,14 +43,59 @@
     {
       "key": "trackRecord",
       "path": "serenity-aleabitoreddit/references/track-record.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "ba2f1322b77695f48c5293b008a289415d1b49bc",
-      "currentSha": "ba2f1322b77695f48c5293b008a289415d1b49bc",
-      "lastCommitAt": "2026-06-07T02:27:33Z",
+      "currentSha": "b3a425249b207819e63bf9a2716fd16f63b0f7b7",
+      "lastCommitAt": "2026-06-11T09:21:33Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/track-record.md"
     }
   ],
-  "thesisChanges": [],
-  "requiresKnowledgeRefresh": false,
-  "recommendedAction": "No durable Serenity distillation change detected."
+  "thesisChanges": [
+    {
+      "type": "new_ticker",
+      "ticker": "XFAB",
+      "currentView": "Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. \"automaker supplier\" perception)",
+      "updatedAt": "2026-06-11T09:54:56Z",
+      "latestSignal": "Serenity framed $XFAB as the leading EU effort to build a silicon photonics foundry alternative to $TSEM and $GFS, backed by European government support with active NVDA evaluations underway. At ~€1.1B market cap, Serenity argues markets still price it as a \"depressed automaker supplier,\" ignoring its silicon photonics foundry roadmap: development finishing Oct 2026, production scaling 2027, mass production 2028 (working since 2023). R&D directors from ASE cite $XFAB as a future CPO (Co-Packaged Optics) route. Serenity explicitly acknowledges being \"might just really early\" and that risk/reward depends on commercialization execution. Also explicitly names $TSEM as the \"de-risked route\" for those wanting lower-risk photonics exposure."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "LPK",
+      "currentView": "Speculative / Exploratory (disclosed position; contract scope unclear)",
+      "updatedAt": "2026-06-11T08:46:38Z",
+      "latestSignal": "Serenity discovered $LPK in SpaceX US import logs as an \"unknown SpaceX supplier\" and disclosed a position ahead of SpaceX's IPO this week (discussed alongside Velo/SpaceX context). Contract details unknown; Serenity explicitly caveats \"not sure what the exact contract entails\" and credits follower @Albert_TheVoid for the DM tip. Framed as \"fun information discovery\" rather than a high-conviction call."
+    },
+    {
+      "type": "thesis_updated",
+      "ticker": "SIVE",
+      "previousView": "Bullish (space/defense catalyst + multi-institution floor-building)",
+      "currentView": "Bullish (space/defense catalyst + multi-institution floor-building)",
+      "updatedAt": "2026-06-11T08:11:37Z",
+      "latestSignal": "New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as \"US institutions validated Sivers's position in photonics and are trying to accumulate positions.\" Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "AXTI",
+      "currentView": "Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry",
+      "updatedAt": "2026-06-11T05:27:12Z",
+      "latestSignal": "Reuters report confirms China's control over InP threatens the AI DC buildout; Serenity frames AXTI as the prescient supply-chain call: \"Who could have guessed $AXTI would have been a major point of failure?\" This is thesis validation, *not* a new buy signal. Position from Dec 2025 at ~$700M MC delivered 1,057%+ gains by Apr 24 2026; Serenity explicitly stated \"not a buy now, do not short\" at 1,057%+ level. Reuters confirmation means the InP bottleneck thesis is now acknowledged by mainstream financial media — typically a late-cycle validation, not a fresh entry."
+    },
+    {
+      "type": "thesis_updated",
+      "ticker": "AAOI",
+      "previousView": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
+      "currentView": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
+      "updatedAt": "2026-06-11T03:18:16Z",
+      "latestSignal": "Confirmed holding in June 9 AI mid-cap list as one of three explicit positions. As of June 5, described as \"current favorite US long\" with accumulation since ~$28 and continued adding at $150-$170. Forward case: ~$12B MC is modest premium if AAOI reaches ~$5.7B ARR entering H2 2027 on 800G/1.6T optical-transceiver demand ramp."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "FOCI",
+      "currentView": "Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)",
+      "updatedAt": "2026-06-11T03:18:16Z",
+      "latestSignal": "Serenity stated \"I expect Foci (3363) to be a bottleneck for both $NVDA and $TSM optical programs\" while noting that \"firms implying you to sell that at $2.5B valuations alongside $HIMX.\" Frames current negative sell-side pressure as a buy signal, using the analogy of SIVE, NBIS, and RKLB institutional-accumulation cycles: \"if you see negative sellside reports or an uncanny wave of negative news, it's a good signal they need liquidity.\" $2.5B valuation is presented as undervaluing the optical-bottleneck potential."
+    }
+  ],
+  "requiresKnowledgeRefresh": true,
+  "recommendedAction": "Review changed methodology/articles/track-record or stance reversals, then refresh the Custom GPT Knowledge files."
 }

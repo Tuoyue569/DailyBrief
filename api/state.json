@@ -1,37 +1,57 @@
 {
-  "generatedAt": "2026-06-10T22:59:25.927Z",
+  "generatedAt": "2026-06-11T12:59:34.687Z",
   "files": {
     "skill": {
-      "sha": "0eeb1a9c36b98e453c46a6189ec3976a4d991544",
-      "lastCommitAt": "2026-06-08T09:14:26Z"
+      "sha": "785277f2c4272d4be1e168595907d442b60bb7e4",
+      "lastCommitAt": "2026-06-11T08:01:52Z"
     },
     "methodology": {
       "sha": "24e39406819c0ed6137ed60be231e183e21b20f9",
       "lastCommitAt": "2026-06-03T03:04:57Z"
     },
     "theses": {
-      "sha": "0a15641a135a00596cf83ba6f70d70b04ee8c034",
-      "lastCommitAt": "2026-06-10T14:06:24Z"
+      "sha": "47011caf5b0b1c6e841c91dfc13fb58eef5b7f07",
+      "lastCommitAt": "2026-06-11T10:14:57Z"
     },
     "articles": {
       "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
       "lastCommitAt": "2026-06-04T10:34:33Z"
     },
     "trackRecord": {
-      "sha": "ba2f1322b77695f48c5293b008a289415d1b49bc",
-      "lastCommitAt": "2026-06-07T02:27:33Z"
+      "sha": "b3a425249b207819e63bf9a2716fd16f63b0f7b7",
+      "lastCommitAt": "2026-06-11T09:21:33Z"
     }
   },
   "thesesByTicker": {
+    "XFAB": {
+      "fingerprint": "e97e50193ae3fb845aeffe2183bb210ff797e52699893e886843d5b78f43b2b9",
+      "view": "Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. \"automaker supplier\" perception)",
+      "updatedAt": "2026-06-11T09:54:56Z"
+    },
+    "LPK": {
+      "fingerprint": "cf42d7ea6d8e7f225d03df6cdfd3b109281237c9cf12a9deb25e42c6132a2f2a",
+      "view": "Speculative / Exploratory (disclosed position; contract scope unclear)",
+      "updatedAt": "2026-06-11T08:46:38Z"
+    },
     "SIVE": {
-      "fingerprint": "1df314b5c9ed5f17d6cb1d8d4f3f8de8a4eb2e11f775ff3c4d794542d02fbfec",
+      "fingerprint": "97442e124f69dada87feaebb4d0a0c0669b47f69c9e74d9129e1b882f40dd5b0",
       "view": "Bullish (space/defense catalyst + multi-institution floor-building)",
-      "updatedAt": "2026-06-10T13:44:57Z"
+      "updatedAt": "2026-06-11T08:11:37Z"
+    },
+    "AXTI": {
+      "fingerprint": "eb88def4253f4fa70d6f462e9c56b909f6f955926a5e1a46766a140d47a52eb8",
+      "view": "Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry",
+      "updatedAt": "2026-06-11T05:27:12Z"
     },
     "AAOI": {
-      "fingerprint": "0f6ef60a5846b4066f93d8fb897459641908deeeedd30751c9093d63b0b9e325",
+      "fingerprint": "a3c0f5ebe27c478b616bdfdff164413173a04f8df2ff30a501ce6af1acd12bfb",
       "view": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
-      "updatedAt": "2026-06-10T13:44:57Z"
+      "updatedAt": "2026-06-11T03:18:16Z"
+    },
+    "FOCI": {
+      "fingerprint": "84ab44b37fb88e097248f7c6a76dd9b22718ccf585074ba88e3adcb85b6563d7",
+      "view": "Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)",
+      "updatedAt": "2026-06-11T03:18:16Z"
     },
     "LITE": {
       "fingerprint": "d958ed75bbfce98883bc0f2afd486261616679536c5a2e4eedbe4e018a71332d",
