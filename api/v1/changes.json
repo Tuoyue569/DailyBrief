@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-11T21:32:47.302Z",
-  "comparedWithPreviousSnapshotAt": "2026-06-11T12:59:34.687Z",
+  "generatedAt": "2026-06-12T11:53:29.677Z",
+  "comparedWithPreviousSnapshotAt": "2026-06-11T21:32:47.302Z",
   "initialSnapshot": false,
   "anyChange": true,
   "fileChanges": [
@@ -26,9 +26,9 @@
       "key": "theses",
       "path": "serenity-aleabitoreddit/references/theses.md",
       "changed": true,
-      "previousSha": "47011caf5b0b1c6e841c91dfc13fb58eef5b7f07",
-      "currentSha": "d2f81a2caceaedab517f5531e052b439004d4d52",
-      "lastCommitAt": "2026-06-11T19:14:31Z",
+      "previousSha": "d2f81a2caceaedab517f5531e052b439004d4d52",
+      "currentSha": "df2e268eb8df0bf553ef6aa7b9b5ffe6204eddbc",
+      "lastCommitAt": "2026-06-12T05:16:12Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/theses.md"
     },
     {
@@ -43,95 +43,43 @@
     {
       "key": "trackRecord",
       "path": "serenity-aleabitoreddit/references/track-record.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "b3a425249b207819e63bf9a2716fd16f63b0f7b7",
-      "currentSha": "b3a425249b207819e63bf9a2716fd16f63b0f7b7",
-      "lastCommitAt": "2026-06-11T09:21:33Z",
+      "currentSha": "7908d71ff42133b1854615368f3049ef125299c6",
+      "lastCommitAt": "2026-06-12T05:16:35Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/track-record.md"
     }
   ],
   "thesisChanges": [
     {
+      "type": "view_changed",
+      "ticker": "SIVE",
+      "previousView": "Bullish (space/defense catalyst + multi-institution floor-building)",
+      "currentView": "Bullish (space/defense catalyst + multi-institution floor-building; framed as early-stage \"ALAB/AAOI/LITE comparable\" — potential 2025 high-conviction pattern replay)",
+      "updatedAt": "2026-06-12T04:26:43Z",
+      "latestSignal": "Serenity directly positioned $SIVE as being in the same early-stage range as $ALAB ($97→$372), $LITE ($330→$904), and $AAOI ($30→$175) were in 2025 when they were \"small $3B companies (~$14B now).\" This is the most explicit early-stage comparable framing she has applied to SIVE — implying it could follow the same trajectory as her 2025 calls that all delivered 2–5x+ returns."
+    },
+    {
+      "type": "new_ticker",
+      "ticker": "ALAB",
+      "currentView": "Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed); original 2025 thesis validated ($97→$372, +283%) but Serenity lost conviction mid-way due to optical transitions",
+      "updatedAt": "2026-06-12T04:26:43Z",
+      "latestSignal": "Serenity's Jun 12 retrospective confirms $ALAB as a validated 2025 high-conviction call ($97→$372, +283%) while adding a key nuance: \"I got some nuances slightly off before more information was made public. Lost conviction on ALAB along the way with optical transitions.\" Serenity did not ride ALAB to full ATH — she exited early due to uncertainty around optical technology transitions in the product roadmap."
+    },
+    {
       "type": "thesis_updated",
-      "ticker": "MRVL",
-      "previousView": "Bullish (top US equity pick)",
-      "currentView": "Bullish (top US equity pick)",
-      "updatedAt": "2026-06-11T18:19:06Z",
-      "latestSignal": "Serenity reaffirmed $MRVL as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings."
-    },
-    {
-      "type": "thesis_updated",
-      "ticker": "LITE",
-      "previousView": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
-      "currentView": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
-      "updatedAt": "2026-06-11T18:19:06Z",
-      "latestSignal": "Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — \"no delays, as this aligns with previous timelines shared.\" Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): \"The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities.\""
+      "ticker": "NBIS",
+      "previousView": "Bullish / High Conviction (current disclosed holding)",
+      "currentView": "Bullish / High Conviction (current disclosed holding)",
+      "updatedAt": "2026-06-12T02:39:57Z",
+      "latestSignal": "Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having \"compelling ROI\" relative to $ARM and $MRVL, which \"ran quite a bit.\" NBIS has been Serenity's defining multi-period position since Sep 2025."
     },
     {
       "type": "new_ticker",
-      "ticker": "SNDK",
-      "currentView": "Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)",
-      "updatedAt": "2026-06-11T18:19:06Z",
-      "latestSignal": "Serenity named $SNDK alongside $MRVL and $LITE as stocks rising due to Trump's cancellation of Iran strikes: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile.\" This is a market-context observation, not a primary thesis or position announcement."
-    },
-    {
-      "type": "new_ticker",
-      "ticker": "WULF",
-      "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-      "updatedAt": "2026-06-11T17:54:35Z",
-      "latestSignal": "Serenity flagged Anthropic's first DC leasing push — \"more than a dozen letters of intent with U.S. developers\" per The Information — as a \"potential tailwind for the Neocloud colo sector,\" naming $WULF as one of the direct beneficiaries. No position disclosed."
-    },
-    {
-      "type": "new_ticker",
-      "ticker": "CIFR",
-      "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-      "updatedAt": "2026-06-11T17:54:35Z",
-      "latestSignal": "Named alongside $WULF, $WYFI, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push. Serenity cites The Information reporting on a dozen+ LOIs from Anthropic with U.S. developers."
-    },
-    {
-      "type": "new_ticker",
-      "ticker": "WYFI",
-      "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-      "updatedAt": "2026-06-11T17:54:35Z",
-      "latestSignal": "Named alongside $WULF, $CIFR, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information)."
-    },
-    {
-      "type": "new_ticker",
-      "ticker": "HUT",
-      "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-      "updatedAt": "2026-06-11T17:54:35Z",
-      "latestSignal": "Named alongside $WULF, $CIFR, $WYFI as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information)."
-    },
-    {
-      "type": "view_changed",
-      "ticker": "NVDA",
-      "previousView": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)",
-      "currentView": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; NVDA framed as \"America's national champion in AI\" with supply chain investment as core thesis)",
-      "updatedAt": "2026-06-11T16:49:50Z",
-      "latestSignal": "Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run \"contrary to our own checks at Computex.\" Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off \"the dumbest selloff I've seen,\" drawing a direct analogy to the prior MU/HBM4-no-share false report. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative."
-    },
-    {
-      "type": "view_changed",
-      "ticker": "INTC",
-      "previousView": "Bullish (top US equity pick)",
-      "currentView": "Bullish (top US equity pick; critical US supply-chain with subsidy validation)",
-      "updatedAt": "2026-06-11T16:13:28Z",
-      "latestSignal": "Serenity reaffirmed $INTC as part of a curated US equities \"goated\" list alongside $MRVL and $ARM. This is notable given Intel's turnaround context — inclusion in this list signals continued conviction despite sector headwinds."
-    },
-    {
-      "type": "view_changed",
-      "ticker": "AAOI",
-      "previousView": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
-      "currentView": "Bullish / High Conviction (current disclosed holding; US photonics domestic-champion thesis)",
-      "updatedAt": "2026-06-11T16:13:28Z",
-      "latestSignal": "Serenity published a Western supply-chain manifesto calling for markets to \"cheer on domestic champions like $AAOI\" instead of outsourcing transceivers to Asia. Reaffirms $471m/month run-rate projection after US reshoring; names $INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE as co-critical Western supply-chain names receiving subsidy validation (CHIPS Act). Draws solar-sector analogy: shorting developing US/Western equities and hedging with subsidized foreign ones \"backfired\" historically and must not repeat in AI photonics. Frames $12B MC as reasonable if $471m/month achieved."
-    },
-    {
-      "type": "new_ticker",
-      "ticker": "SPCX",
-      "currentView": "Macro-observational / IPO catalyst watch (no explicit position disclosed)",
-      "updatedAt": "2026-06-11T15:05:53Z",
-      "latestSignal": "Serenity noted that market-wide correction in $META and $MSFT may be driven by SpaceX-related index rebalancing: \"At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro. Or just liquidity pull from $SPCX + index inclusion. And institutions frontrunning Nasdaq 100 and other rebalancing of SpaceX...\" No explicit buy/sell call; frames SpaceX as now macro-scale enough to drive institutional index-rebalancing flows across the entire market."
+      "ticker": "RKLB",
+      "currentView": "Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)",
+      "updatedAt": "2026-06-12T02:39:57Z",
+      "latestSignal": "Serenity celebrated $RKLB joining the Nasdaq 100 alongside $NBIS and $ALAB — \"Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq.\" This is the culminating milestone for Serenity's prior RKLB thesis: the trajectory from ~$16 thesis entry through institutional accumulation to Nasdaq 100 inclusion is the exact pattern she now applies as a template when analyzing $NBIS and $SIVE (institutions with <30% ownership → float absorption → ATH → large-cap index status)."
     }
   ],
   "requiresKnowledgeRefresh": true,

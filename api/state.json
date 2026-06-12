@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T21:32:47.302Z",
+  "generatedAt": "2026-06-12T11:53:29.677Z",
   "files": {
     "skill": {
       "sha": "785277f2c4272d4be1e168595907d442b60bb7e4",
@@ -10,19 +10,39 @@
       "lastCommitAt": "2026-06-03T03:04:57Z"
     },
     "theses": {
-      "sha": "d2f81a2caceaedab517f5531e052b439004d4d52",
-      "lastCommitAt": "2026-06-11T19:14:31Z"
+      "sha": "df2e268eb8df0bf553ef6aa7b9b5ffe6204eddbc",
+      "lastCommitAt": "2026-06-12T05:16:12Z"
     },
     "articles": {
       "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
       "lastCommitAt": "2026-06-04T10:34:33Z"
     },
     "trackRecord": {
-      "sha": "b3a425249b207819e63bf9a2716fd16f63b0f7b7",
-      "lastCommitAt": "2026-06-11T09:21:33Z"
+      "sha": "7908d71ff42133b1854615368f3049ef125299c6",
+      "lastCommitAt": "2026-06-12T05:16:35Z"
     }
   },
   "thesesByTicker": {
+    "SIVE": {
+      "fingerprint": "d8f196b546a8889dc51840200e85a41d39abca0e03f9d9bc34e58907fd27d09d",
+      "view": "Bullish (space/defense catalyst + multi-institution floor-building; framed as early-stage \"ALAB/AAOI/LITE comparable\" — potential 2025 high-conviction pattern replay)",
+      "updatedAt": "2026-06-12T04:26:43Z"
+    },
+    "ALAB": {
+      "fingerprint": "6742ea2b32c33ad1ab4fc2b67fbf6c3772953d26ab6850fde5a211a234d57ced",
+      "view": "Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed); original 2025 thesis validated ($97→$372, +283%) but Serenity lost conviction mid-way due to optical transitions",
+      "updatedAt": "2026-06-12T04:26:43Z"
+    },
+    "NBIS": {
+      "fingerprint": "e83ea453876a570ddf70c3432f2edd99c8f9807be66c23e24fcd1e0b8cebc795",
+      "view": "Bullish / High Conviction (current disclosed holding)",
+      "updatedAt": "2026-06-12T02:39:57Z"
+    },
+    "RKLB": {
+      "fingerprint": "025f6e04605ea9f7543f22fa67977b5c872216a5f55d2c639337e541d9ac16d5",
+      "view": "Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)",
+      "updatedAt": "2026-06-12T02:39:57Z"
+    },
     "MRVL": {
       "fingerprint": "ce1f4d1240a7a055d30864c0ddd8a3a7ba130a4810c4730aa9d3011b57d53872",
       "view": "Bullish (top US equity pick)",
@@ -88,11 +108,6 @@
       "view": "Speculative / Exploratory (disclosed position; contract scope unclear)",
       "updatedAt": "2026-06-11T08:46:38Z"
     },
-    "SIVE": {
-      "fingerprint": "97442e124f69dada87feaebb4d0a0c0669b47f69c9e74d9129e1b882f40dd5b0",
-      "view": "Bullish (space/defense catalyst + multi-institution floor-building)",
-      "updatedAt": "2026-06-11T08:11:37Z"
-    },
     "AXTI": {
       "fingerprint": "eb88def4253f4fa70d6f462e9c56b909f6f955926a5e1a46766a140d47a52eb8",
       "view": "Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry",
@@ -107,11 +122,6 @@
       "fingerprint": "a1c3f02fcd32bccab50c4d96056ddfd60309f5e04ea58d450a975f4338a9eb07",
       "view": "Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports; pattern re-invoked and further corroborated for NVDA CPO/800V episode)",
       "updatedAt": "2026-06-10T10:47:56Z"
-    },
-    "NBIS": {
-      "fingerprint": "f3516da872ea686aa80eb8d2473be41b125e4cf7b9479ac8f040de2d0e6703fd",
-      "view": "Bullish / High Conviction (current disclosed holding)",
-      "updatedAt": "2026-06-09T11:52:27Z"
     },
     "TSEM": {
       "fingerprint": "dc32cc7239a508acae86da077ffc566087c16012755bef94aaba73ed36562d65",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-11T21:32:47.302Z",
-  "knowledgeAsOf": "2026-06-11T19:14:31Z",
+  "generatedAt": "2026-06-12T11:53:29.677Z",
+  "knowledgeAsOf": "2026-06-12T05:16:35Z",
   "sourceFreshness": {
     "skill": "2026-06-11T08:01:52Z",
     "methodology": "2026-06-03T03:04:57Z",
-    "theses": "2026-06-11T19:14:31Z",
+    "theses": "2026-06-12T05:16:12Z",
     "articles": "2026-06-04T10:34:33Z",
-    "trackRecord": "2026-06-11T09:21:33Z"
+    "trackRecord": "2026-06-12T05:16:35Z"
   },
   "changeSummary": {
     "initialSnapshot": false,
@@ -15,97 +15,98 @@
     "recommendedAction": "Review changed methodology/articles/track-record or stance reversals, then refresh the Custom GPT Knowledge files.",
     "thesisChanges": [
       {
+        "type": "view_changed",
+        "ticker": "SIVE",
+        "previousView": "Bullish (space/defense catalyst + multi-institution floor-building)",
+        "currentView": "Bullish (space/defense catalyst + multi-institution floor-building; framed as early-stage \"ALAB/AAOI/LITE comparable\" — potential 2025 high-conviction pattern replay)",
+        "updatedAt": "2026-06-12T04:26:43Z",
+        "latestSignal": "Serenity directly positioned $SIVE as being in the same early-stage range as $ALAB ($97→$372), $LITE ($330→$904), and $AAOI ($30→$175) were in 2025 when they were \"small $3B companies (~$14B now).\" This is the most explicit early-stage comparable framing she has applied to SIVE — implying it could follow the same trajectory as her 2025 calls that all delivered 2–5x+ returns."
+      },
+      {
+        "type": "new_ticker",
+        "ticker": "ALAB",
+        "currentView": "Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed); original 2025 thesis validated ($97→$372, +283%) but Serenity lost conviction mid-way due to optical transitions",
+        "updatedAt": "2026-06-12T04:26:43Z",
+        "latestSignal": "Serenity's Jun 12 retrospective confirms $ALAB as a validated 2025 high-conviction call ($97→$372, +283%) while adding a key nuance: \"I got some nuances slightly off before more information was made public. Lost conviction on ALAB along the way with optical transitions.\" Serenity did not ride ALAB to full ATH — she exited early due to uncertainty around optical technology transitions in the product roadmap."
+      },
+      {
         "type": "thesis_updated",
-        "ticker": "MRVL",
-        "previousView": "Bullish (top US equity pick)",
-        "currentView": "Bullish (top US equity pick)",
-        "updatedAt": "2026-06-11T18:19:06Z",
-        "latestSignal": "Serenity reaffirmed $MRVL as part of a curated US equities \"goated\" list — a high-conviction selection of preferred US names shared as a recap for new followers. Positioned alongside $ARM and $INTC as core US semiconductor/tech holdings."
-      },
-      {
-        "type": "thesis_updated",
-        "ticker": "LITE",
-        "previousView": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
-        "currentView": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
-        "updatedAt": "2026-06-11T18:19:06Z",
-        "latestSignal": "Serenity published a joint LITE+NVDA confirmation summary: LITE management at Mizuho Technology Conference reaffirmed CPO Scale-Up optical shipping H2 2027, formal ramp 2028 — \"no delays, as this aligns with previous timelines shared.\" Coupled with the NVDA SVP scale-out confirmation (H2 2026 CPO mass production ramp): \"The leading companies in Nvidia and Lumentum probably know their own timelines better than incorrect analyst reports telling them no. And both are incredibly bullish on TAM and opportunities.\""
+        "ticker": "NBIS",
+        "previousView": "Bullish / High Conviction (current disclosed holding)",
+        "currentView": "Bullish / High Conviction (current disclosed holding)",
+        "updatedAt": "2026-06-12T02:39:57Z",
+        "latestSignal": "Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having \"compelling ROI\" relative to $ARM and $MRVL, which \"ran quite a bit.\" NBIS has been Serenity's defining multi-period position since Sep 2025."
       },
       {
         "type": "new_ticker",
-        "ticker": "SNDK",
-        "currentView": "Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)",
-        "updatedAt": "2026-06-11T18:19:06Z",
-        "latestSignal": "Serenity named $SNDK alongside $MRVL and $LITE as stocks rising due to Trump's cancellation of Iran strikes: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile.\" This is a market-context observation, not a primary thesis or position announcement."
-      },
-      {
-        "type": "new_ticker",
-        "ticker": "WULF",
-        "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-        "updatedAt": "2026-06-11T17:54:35Z",
-        "latestSignal": "Serenity flagged Anthropic's first DC leasing push — \"more than a dozen letters of intent with U.S. developers\" per The Information — as a \"potential tailwind for the Neocloud colo sector,\" naming $WULF as one of the direct beneficiaries. No position disclosed."
-      },
-      {
-        "type": "new_ticker",
-        "ticker": "CIFR",
-        "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-        "updatedAt": "2026-06-11T17:54:35Z",
-        "latestSignal": "Named alongside $WULF, $WYFI, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push. Serenity cites The Information reporting on a dozen+ LOIs from Anthropic with U.S. developers."
-      },
-      {
-        "type": "new_ticker",
-        "ticker": "WYFI",
-        "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-        "updatedAt": "2026-06-11T17:54:35Z",
-        "latestSignal": "Named alongside $WULF, $CIFR, $HUT as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information)."
-      },
-      {
-        "type": "new_ticker",
-        "ticker": "HUT",
-        "currentView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-        "updatedAt": "2026-06-11T17:54:35Z",
-        "latestSignal": "Named alongside $WULF, $CIFR, $WYFI as a Neocloud colo beneficiary of Anthropic's first DC leasing push (dozen+ LOIs per The Information)."
-      },
-      {
-        "type": "view_changed",
-        "ticker": "NVDA",
-        "previousView": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; sell-off framed as buying opportunity)",
-        "currentView": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; NVDA framed as \"America's national champion in AI\" with supply chain investment as core thesis)",
-        "updatedAt": "2026-06-11T16:49:50Z",
-        "latestSignal": "Morgan Stanley explicitly contradicted the SemiAnalysis 800V DC pushback report, stating their own Computex supply-chain checks run \"contrary to our own checks at Computex.\" Nvidia separately denied the pushback reports. Serenity called the resulting CPO/800V sell-off \"the dumbest selloff I've seen,\" drawing a direct analogy to the prior MU/HBM4-no-share false report. Two independent sources (Nvidia + Morgan Stanley) now refute the SemiAnalysis 800V narrative."
-      },
-      {
-        "type": "view_changed",
-        "ticker": "INTC",
-        "previousView": "Bullish (top US equity pick)",
-        "currentView": "Bullish (top US equity pick; critical US supply-chain with subsidy validation)",
-        "updatedAt": "2026-06-11T16:13:28Z",
-        "latestSignal": "Serenity reaffirmed $INTC as part of a curated US equities \"goated\" list alongside $MRVL and $ARM. This is notable given Intel's turnaround context — inclusion in this list signals continued conviction despite sector headwinds."
-      },
-      {
-        "type": "view_changed",
-        "ticker": "AAOI",
-        "previousView": "Bullish / High Conviction (current disclosed holding; US photonics favorite)",
-        "currentView": "Bullish / High Conviction (current disclosed holding; US photonics domestic-champion thesis)",
-        "updatedAt": "2026-06-11T16:13:28Z",
-        "latestSignal": "Serenity published a Western supply-chain manifesto calling for markets to \"cheer on domestic champions like $AAOI\" instead of outsourcing transceivers to Asia. Reaffirms $471m/month run-rate projection after US reshoring; names $INTC, $IQE, $XFAB, $MU, $WOLF, $SOI, $SIVE as co-critical Western supply-chain names receiving subsidy validation (CHIPS Act). Draws solar-sector analogy: shorting developing US/Western equities and hedging with subsidized foreign ones \"backfired\" historically and must not repeat in AI photonics. Frames $12B MC as reasonable if $471m/month achieved."
-      },
-      {
-        "type": "new_ticker",
-        "ticker": "SPCX",
-        "currentView": "Macro-observational / IPO catalyst watch (no explicit position disclosed)",
-        "updatedAt": "2026-06-11T15:05:53Z",
-        "latestSignal": "Serenity noted that market-wide correction in $META and $MSFT may be driven by SpaceX-related index rebalancing: \"At this point I can't tell anymore if markets from $META to $MSFT are correcting because of macro. Or just liquidity pull from $SPCX + index inclusion. And institutions frontrunning Nasdaq 100 and other rebalancing of SpaceX...\" No explicit buy/sell call; frames SpaceX as now macro-scale enough to drive institutional index-rebalancing flows across the entire market."
+        "ticker": "RKLB",
+        "currentView": "Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)",
+        "updatedAt": "2026-06-12T02:39:57Z",
+        "latestSignal": "Serenity celebrated $RKLB joining the Nasdaq 100 alongside $NBIS and $ALAB — \"Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq.\" This is the culminating milestone for Serenity's prior RKLB thesis: the trajectory from ~$16 thesis entry through institutional accumulation to Nasdaq 100 inclusion is the exact pattern she now applies as a template when analyzing $NBIS and $SIVE (institutions with <30% ownership → float absorption → ATH → large-cap index status)."
       }
     ],
     "changedFiles": [
       {
         "key": "theses",
         "path": "serenity-aleabitoreddit/references/theses.md",
-        "lastCommitAt": "2026-06-11T19:14:31Z"
+        "lastCommitAt": "2026-06-12T05:16:12Z"
+      },
+      {
+        "key": "trackRecord",
+        "path": "serenity-aleabitoreddit/references/track-record.md",
+        "lastCommitAt": "2026-06-12T05:16:35Z"
       }
     ]
   },
   "latestTickerTheses": [
+    {
+      "ticker": "SIVE",
+      "company": null,
+      "updatedAt": "2026-06-12T04:26:43Z",
+      "view": "Bullish (space/defense catalyst + multi-institution floor-building; framed as early-stage \"ALAB/AAOI/LITE comparable\" — potential 2025 high-conviction pattern replay)",
+      "latestSignal": "Serenity directly positioned $SIVE as being in the same early-stage range as $ALAB ($97→$372), $LITE ($330→$904), and $AAOI ($30→$175) were in 2025 when they were \"small $3B companies (~$14B now).\" This is the most explicit early-stage comparable framing she has applied to SIVE — implying it could follow the same trajectory as her 2025 calls that all delivered 2–5x+ returns.",
+      "post": "2065289672356745561 (https://x.com/aleabitoreddit/status/2065289672356745561) — 2026-06-12T04:26:43Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065289672356745561",
+      "keyQuote": "\"So maybe some others in the same range today like $SIVE should get some more attention?\"",
+      "thesisType": "Space/defense supply-chain chokepoint + multi-institution float squeeze (BlackRock+Fidelity+JPM accumulation pattern; ahead of SpaceX IPO); early-stage \"ALAB/AAOI/LITE pattern\" comparable at ~$3B MC",
+      "evidenceExcerpt": "- **View**: Bullish (space/defense catalyst + multi-institution floor-building; framed as early-stage \"ALAB/AAOI/LITE comparable\" — potential 2025 high-conviction pattern replay)\n- **Latest signal**: Serenity directly positioned $SIVE as being in the same early-stage range as $ALAB ($97→$372), $LITE ($330→$904), and $AAOI ($30→$175) were in 2025 when they were \"small $3B companies (~$14B now).\" This is the most explicit early-stage comparable framing she has applied to SIVE — implying it could follow the same trajectory as her 2025 calls that all delivered 2–5x+ returns.\n- **Post**: 2065289672356745561 (https://x.com/aleabitoreddit/status/2065289672356745561) — 2026-06-12T04:26:43Z\n- **Key quote**: \"So maybe some others in the same range today like $SIVE should get some more attention?\"\n- **Thesis type**: Space/defense supply-chain chokepoint + multi-institution float squeeze (BlackRock+Fidelity+JPM accumulation pattern; ahead of SpaceX IPO); early-stage \"ALAB/AAOI/LITE pattern\" comparable at ~$3B MC\n- **Prior signals**: Jun 11 08:11 brief bullish reaffirmation: 'I like $SIVE' [[2064983882802565169]](https://x.com/aleabitoreddit/status/2064983882802565169) — 2026-06-11T08:11:37Z; New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as \"US institutions validated Sivers's position in photonics and are trying to accumulate positions.\" Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced. [[2064608597343125931]](https://x.com/aleabitoreddit/status/2064608597343125931) — 2026-0\n\n[truncated 1606 characters]"
+    },
+    {
+      "ticker": "ALAB",
+      "company": "Astera Labs, Inc",
+      "updatedAt": "2026-06-12T04:26:43Z",
+      "view": "Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed); original 2025 thesis validated ($97→$372, +283%) but Serenity lost conviction mid-way due to optical transitions",
+      "latestSignal": "Serenity's Jun 12 retrospective confirms $ALAB as a validated 2025 high-conviction call ($97→$372, +283%) while adding a key nuance: \"I got some nuances slightly off before more information was made public. Lost conviction on ALAB along the way with optical transitions.\" Serenity did not ride ALAB to full ATH — she exited early due to uncertainty around optical technology transitions in the product roadmap.",
+      "post": "2065289672356745561 (https://x.com/aleabitoreddit/status/2065289672356745561) — 2026-06-12T04:26:43Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065289672356745561",
+      "keyQuote": "\"I got some nuances slightly off before more information was made public. Lost conviction on ALAB along the way with optical transitions.\"",
+      "thesisType": "AI data center interconnect (PCIe retimers, SmartNICs, CXL fabric); original 2025 long validated ($97→$372); Nasdaq 100 inclusion triggered forced passive buying",
+      "evidenceExcerpt": "- **View**: Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed); original 2025 thesis validated ($97→$372, +283%) but Serenity lost conviction mid-way due to optical transitions\n- **Latest signal**: Serenity's Jun 12 retrospective confirms $ALAB as a validated 2025 high-conviction call ($97→$372, +283%) while adding a key nuance: \"I got some nuances slightly off before more information was made public. Lost conviction on ALAB along the way with optical transitions.\" Serenity did not ride ALAB to full ATH — she exited early due to uncertainty around optical technology transitions in the product roadmap.\n- **Post**: 2065289672356745561 (https://x.com/aleabitoreddit/status/2065289672356745561) — 2026-06-12T04:26:43Z\n- **Key quote**: \"I got some nuances slightly off before more information was made public. Lost conviction on ALAB along the way with optical transitions.\"\n- **Thesis type**: AI data center interconnect (PCIe retimers, SmartNICs, CXL fabric); original 2025 long validated ($97→$372); Nasdaq 100 inclusion triggered forced passive buying\n- **Prior signals**: Jun 12 02:39 Nasdaq 100 inclusion milestone celebration alongside $NBIS and $RKLB: \"Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq\" [[2065262802328293497]](https://x.com/aleabitoreddit/status/2065262802328293497) — 2026-06-12T02:39:57Z\n- **Caveat**: No current position; original 2025 long exited mid-thesis (conviction lost on optical transitions); retrospective validation does not imply current re-entry signal; Nasdaq 100 inclusion is late-cycle observation\n\n---"
+    },
+    {
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "updatedAt": "2026-06-12T02:39:57Z",
+      "view": "Bullish / High Conviction (current disclosed holding)",
+      "latestSignal": "Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having \"compelling ROI\" relative to $ARM and $MRVL, which \"ran quite a bit.\" NBIS has been Serenity's defining multi-period position since Sep 2025.",
+      "post": "2064314680521507114 (https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2064314680521507114",
+      "keyQuote": "\"(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go.\"",
+      "thesisType": "Neocloud AI infrastructure (high-margin GPU cloud, Clickhouse/Avride/Toloka sum-of-parts); current disclosed holding",
+      "evidenceExcerpt": "- **View**: Bullish / High Conviction (current disclosed holding)\n- **Latest signal**: Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having \"compelling ROI\" relative to $ARM and $MRVL, which \"ran quite a bit.\" NBIS has been Serenity's defining multi-period position since Sep 2025.\n- **Post**: 2064314680521507114 (https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z\n- **Key quote**: \"(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go.\"\n- **Thesis type**: Neocloud AI infrastructure (high-margin GPU cloud, Clickhouse/Avride/Toloka sum-of-parts); current disclosed holding\n- **Prior signals**: Jun 12 02:39 Nasdaq 100 inclusion milestone: Serenity celebrates $NBIS joining Nasdaq 100 alongside $ALAB and $RKLB — \"Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100! Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq.\" Index inclusion triggers forced passive buying; validates long-term institutional thesis [[2065262802328293497]](https://x.com/aleabitoreddit/status/2065262802328293497) — 2026-06-12T02:39:57Z; Long from Sep 2025 (~$750K→$2M+); NVDA $2B strategic investment (Mar 2026); Q3/Q4 blowout earnings; France €8B AI cloud deal (Jun 1 2026); ~$60B market cap milestone; Leopold Aschenbrenner 5.6% stake; consistent outperformer vs IREN/CIFR neocloud peers\n\n---"
+    },
+    {
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corp",
+      "updatedAt": "2026-06-12T02:39:57Z",
+      "view": "Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)",
+      "latestSignal": "Serenity celebrated $RKLB joining the Nasdaq 100 alongside $NBIS and $ALAB — \"Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq.\" This is the culminating milestone for Serenity's prior RKLB thesis: the trajectory from ~$16 thesis entry through institutional accumulation to Nasdaq 100 inclusion is the exact pattern she now applies as a template when analyzing $NBIS and $SIVE (institutions with <30% ownership → float absorption → ATH → large-cap index status).",
+      "post": "2065262802328293497 (https://x.com/aleabitoreddit/status/2065262802328293497) — 2026-06-12T02:39:57Z",
+      "postUrl": "https://x.com/aleabitoreddit/status/2065262802328293497",
+      "keyQuote": "\"Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq\"",
+      "thesisType": "Space launch / defense systems; prior institutional-accumulation cycle play (now in Nasdaq 100 = past optimal entry window); canonical \"RKLB pattern\" template for current $NBIS and $SIVE theses",
+      "evidenceExcerpt": "- **View**: Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)\n- **Latest signal**: Serenity celebrated $RKLB joining the Nasdaq 100 alongside $NBIS and $ALAB — \"Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq.\" This is the culminating milestone for Serenity's prior RKLB thesis: the trajectory from ~$16 thesis entry through institutional accumulation to Nasdaq 100 inclusion is the exact pattern she now applies as a template when analyzing $NBIS and $SIVE (institutions with <30% ownership → float absorption → ATH → large-cap index status).\n- **Post**: 2065262802328293497 (https://x.com/aleabitoreddit/status/2065262802328293497) — 2026-06-12T02:39:57Z\n- **Key quote**: \"Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq\"\n- **Thesis type**: Space launch / defense systems; prior institutional-accumulation cycle play (now in Nasdaq 100 = past optimal entry window); canonical \"RKLB pattern\" template for current $NBIS and $SIVE theses\n- **Prior signals**: Repeatedly referenced in $SIVE and $NBIS thesis entries as the template for the institutional-accumulation cycle: \"RKLB ($16 entry → ATH)\" and \"$NBIS (<30% inst. accumulation → float absorbed by institutions → ATH)\" — Nasdaq 100 inclusion validates the full pattern from first-mentioned entry through institutional milestone\n- **Caveat**: No current position indicated; Serenity's thesis entry was at ~$16; Nasdaq 100 inclusion places RKLB far beyond original thesis entry range; this is a celebratory retrospective, not a fresh buy call. \"Weebius\" = Serenity's nickname for Nebius ($NBIS)"
+    },
     {
       "ticker": "MRVL",
       "company": "Marvell Technology",
@@ -140,7 +141,7 @@
       "postUrl": "https://x.com/aleabitoreddit/status/2065136761077158061",
       "keyQuote": "\"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran.\"",
       "thesisType": "Geopolitical macro observation (Iran de-escalation tailwind); semiconductor/storage sector (Sandisk Corp); no independent investment thesis",
-      "evidenceExcerpt": "- **View**: Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)\n- **Latest signal**: Serenity named $SNDK alongside $MRVL and $LITE as stocks rising due to Trump's cancellation of Iran strikes: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile.\" This is a market-context observation, not a primary thesis or position announcement.\n- **Post**: 2065136761077158061 (https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z\n- **Key quote**: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran.\"\n- **Thesis type**: Geopolitical macro observation (Iran de-escalation tailwind); semiconductor/storage sector (Sandisk Corp); no independent investment thesis\n- **Caveat**: Passing contextual mention only; Serenity did not express an independent fundamental view on SNDK; no position disclosed; movement attributed entirely to Trump/Iran geopolitical catalyst"
+      "evidenceExcerpt": "- **View**: Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)\n- **Latest signal**: Serenity named $SNDK alongside $MRVL and $LITE as stocks rising due to Trump's cancellation of Iran strikes: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran. This market is so volatile.\" This is a market-context observation, not a primary thesis or position announcement.\n- **Post**: 2065136761077158061 (https://x.com/aleabitoreddit/status/2065136761077158061) — 2026-06-11T18:19:06Z\n- **Key quote**: \"Just in case you're wondering why indexes + individual names like $SNDK to $MRVL to $LITE are green now. Trump just cancelled attacks on Iran.\"\n- **Thesis type**: Geopolitical macro observation (Iran de-escalation tailwind); semiconductor/storage sector (Sandisk Corp); no independent investment thesis\n- **Caveat**: Passing contextual mention only; Serenity did not express an independent fundamental view on SNDK; no position disclosed; movement attributed entirely to Trump/Iran geopolitical catalyst\n\n---"
     },
     {
       "ticker": "WULF",
@@ -263,18 +264,6 @@
       "evidenceExcerpt": "- **View**: Speculative / Exploratory (disclosed position; contract scope unclear)\n- **Latest signal**: Serenity discovered $LPK in SpaceX US import logs as an \"unknown SpaceX supplier\" and disclosed a position ahead of SpaceX's IPO this week (discussed alongside Velo/SpaceX context). Contract details unknown; Serenity explicitly caveats \"not sure what the exact contract entails\" and credits follower @Albert_TheVoid for the DM tip. Framed as \"fun information discovery\" rather than a high-conviction call.\n- **Post**: 2064992691902140603 (https://x.com/aleabitoreddit/status/2064992691902140603) — 2026-06-11T08:46:38Z\n- **Key quote**: \"Just thought this was interesting: $LPK is an unknown SpaceX supplier. You can find it in SpaceX US import logs… Disclosure: I have positions in LPK, NFA\"\n- **Thesis type**: SpaceX IPO supply-chain discovery (found in US import logs); also previously linked to glass-substrate equipment thesis (April–May 2026)\n- **Prior signals**: May 25 'Turned out pretty well' after April entry — original thesis framed around glass-substrate equipment context; May 19 mentioned alongside glass-substrate supply-chain discussion (AI GPU/ASIC/CPO demand may create ABF shortage by 2027). SpaceX supplier angle is new as of Jun 11.\n- **Risk**: Low-conviction by Serenity's own admission; no confirmed contract scope; position entry predates SpaceX IPO catalyst; exploratory DM-sourced lead\n\n---"
     },
     {
-      "ticker": "SIVE",
-      "company": null,
-      "updatedAt": "2026-06-11T08:11:37Z",
-      "view": "Bullish (space/defense catalyst + multi-institution floor-building)",
-      "latestSignal": "New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as \"US institutions validated Sivers's position in photonics and are trying to accumulate positions.\" Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced.",
-      "post": "2064608597343125931 (https://x.com/aleabitoreddit/status/2064608597343125931) — 2026-06-10T07:20:22Z",
-      "postUrl": "https://x.com/aleabitoreddit/status/2064608597343125931",
-      "keyQuote": "\"This looks like US institutions validated Sivers's position in photonics and are trying to accumulate positions.\"",
-      "thesisType": "Space/defense supply-chain chokepoint + multi-institution float squeeze (BlackRock+Fidelity+JPM accumulation pattern; ahead of SpaceX IPO)",
-      "evidenceExcerpt": "- **View**: Bullish (space/defense catalyst + multi-institution floor-building)\n- **Latest signal**: New institutional validation wave — BlackRock entered $SIVE as passive owners following index listing; Fidelity Research starting direct positions. Pattern mirrors JP Morgan's earlier entry (small positions → acquired ~5.25% of company). Serenity interprets this as \"US institutions validated Sivers's position in photonics and are trying to accumulate positions.\" Three major US institutions (JPM, BlackRock, Fidelity) now building positions in a thinly floated name = ongoing float squeeze dynamic reinforced.\n- **Post**: 2064608597343125931 (https://x.com/aleabitoreddit/status/2064608597343125931) — 2026-06-10T07:20:22Z\n- **Key quote**: \"This looks like US institutions validated Sivers's position in photonics and are trying to accumulate positions.\"\n- **Thesis type**: Space/defense supply-chain chokepoint + multi-institution float squeeze (BlackRock+Fidelity+JPM accumulation pattern; ahead of SpaceX IPO)\n- **Prior signals**: Jun 11 08:11 brief bullish reaffirmation: 'I like $SIVE' [[2064983882802565169]](https://x.com/aleabitoreddit/status/2064983882802565169) — 2026-06-11T08:11:37Z; Jun 11 01:38 institutional-cycle framework reaffirmation: 'There was close to 0 US institutional ownership on $SIVE. And now you see active institutions like JP Morgan, Fidelity Research, and others on the cap table.' Frames SIVE as the current leg of the RKLB ($16 entry → ATH) / NBIS (<30% inst. accumulation → float absorbed by institutions → ATH) institutional-cycle pattern; meta-signal: 'if you see negative sellside reports or an uncanny wave of negative news, it's a good signal they need liquidity'; explicitly links SIVE to Foci (3363) as parallel accumulation-phase long [[20648849126674391\n\n[truncated 989 characters]"
-    },
-    {
       "ticker": "AXTI",
       "company": "American Xtal Technology",
       "updatedAt": "2026-06-11T05:27:12Z",
@@ -309,18 +298,6 @@
       "keyQuote": "\"Bro this has gotta be the dumbest CPO/800V selloff I've seen. Since the selloff from their claim $MU had 0 share of Nvidia HBM4\"",
       "thesisType": "HBM4 AI memory / Rubin-generation supply-chain; contrarian long on false analyst negative reports; cross-ticker pattern validation with NVDA CPO/800V thesis",
       "evidenceExcerpt": "- **View**: Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports; pattern re-invoked and further corroborated for NVDA CPO/800V episode)\n- **Latest signal**: Serenity drew an explicit analogy between the current SemiAnalysis 800V DC pushback on NVDA and the prior false analyst claim that $MU had no HBM4 Rubin share. Morgan Stanley has now also independently contradicted the SemiAnalysis NVDA 800V report (\"contrary to our own checks at Computex\"). The MU/SemiAnalysis pattern — false negative analyst report → sell-off → company enters mass production → triple-digit returns for buyers of the dip — is being re-invoked as the established template. The implication: \"people going long on temporary bridge architectures from this incorrect report won't be too happy. Appreciate the buying opportunity though.\"\n- **Post**: 2064660831405805648 (https://x.com/aleabitoreddit/status/2064660831405805648) — 2026-06-10T10:47:56Z\n- **Key quote**: \"Bro this has gotta be the dumbest CPO/800V selloff I've seen. Since the selloff from their claim $MU had 0 share of Nvidia HBM4\"\n- **Thesis type**: HBM4 AI memory / Rubin-generation supply-chain; contrarian long on false analyst negative reports; cross-ticker pattern validation with NVDA CPO/800V thesis\n- **Prior signals**: Original MU/HBM4 buy-the-dip pattern documented 2064521404859719681 (https://x.com/aleabitoreddit/status/2064521404859719681) — 2026-06-10T01:33:54Z; \"MU finally hits $1 Trillion marketcap\" memory-supercycle reaffirm — 2026-05-26\n\n---"
-    },
-    {
-      "ticker": "NBIS",
-      "company": "Nebius Group",
-      "updatedAt": "2026-06-09T11:52:27Z",
-      "view": "Bullish / High Conviction (current disclosed holding)",
-      "latestSignal": "Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having \"compelling ROI\" relative to $ARM and $MRVL, which \"ran quite a bit.\" NBIS has been Serenity's defining multi-period position since Sep 2025.",
-      "post": "2064314680521507114 (https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z",
-      "postUrl": "https://x.com/aleabitoreddit/status/2064314680521507114",
-      "keyQuote": "\"(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go.\"",
-      "thesisType": "Neocloud AI infrastructure (high-margin GPU cloud, Clickhouse/Avride/Toloka sum-of-parts); current disclosed holding",
-      "evidenceExcerpt": "- **View**: Bullish / High Conviction (current disclosed holding)\n- **Latest signal**: Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having \"compelling ROI\" relative to $ARM and $MRVL, which \"ran quite a bit.\" NBIS has been Serenity's defining multi-period position since Sep 2025.\n- **Post**: 2064314680521507114 (https://x.com/aleabitoreddit/status/2064314680521507114) — 2026-06-09T11:52:27Z\n- **Key quote**: \"(Just a disclosure, only have financial interest in NBIS/TSEM/AAOI above) ... Still feels like many of these have room to go.\"\n- **Thesis type**: Neocloud AI infrastructure (high-margin GPU cloud, Clickhouse/Avride/Toloka sum-of-parts); current disclosed holding\n- **Prior signals**: Long from Sep 2025 (~$750K→$2M+); NVDA $2B strategic investment (Mar 2026); Q3/Q4 blowout earnings; France €8B AI cloud deal (Jun 1 2026); ~$60B market cap milestone; Leopold Aschenbrenner 5.6% stake; consistent outperformer vs IREN/CIFR neocloud peers\n\n---"
     },
     {
       "ticker": "TSEM",
