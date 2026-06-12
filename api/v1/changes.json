@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T11:53:29.677Z",
-  "comparedWithPreviousSnapshotAt": "2026-06-11T21:32:47.302Z",
+  "generatedAt": "2026-06-12T19:33:07.956Z",
+  "comparedWithPreviousSnapshotAt": "2026-06-12T11:53:29.677Z",
   "initialSnapshot": false,
   "anyChange": true,
   "fileChanges": [
@@ -26,9 +26,9 @@
       "key": "theses",
       "path": "serenity-aleabitoreddit/references/theses.md",
       "changed": true,
-      "previousSha": "d2f81a2caceaedab517f5531e052b439004d4d52",
-      "currentSha": "df2e268eb8df0bf553ef6aa7b9b5ffe6204eddbc",
-      "lastCommitAt": "2026-06-12T05:16:12Z",
+      "previousSha": "df2e268eb8df0bf553ef6aa7b9b5ffe6204eddbc",
+      "currentSha": "d3765aa28fc06dfeaa6ac517fad9a8a96b6d60eb",
+      "lastCommitAt": "2026-06-12T16:10:14Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/theses.md"
     },
     {
@@ -43,8 +43,8 @@
     {
       "key": "trackRecord",
       "path": "serenity-aleabitoreddit/references/track-record.md",
-      "changed": true,
-      "previousSha": "b3a425249b207819e63bf9a2716fd16f63b0f7b7",
+      "changed": false,
+      "previousSha": "7908d71ff42133b1854615368f3049ef125299c6",
       "currentSha": "7908d71ff42133b1854615368f3049ef125299c6",
       "lastCommitAt": "2026-06-12T05:16:35Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/track-record.md"
@@ -52,34 +52,124 @@
   ],
   "thesisChanges": [
     {
-      "type": "view_changed",
+      "type": "removed_ticker",
       "ticker": "SIVE",
-      "previousView": "Bullish (space/defense catalyst + multi-institution floor-building)",
-      "currentView": "Bullish (space/defense catalyst + multi-institution floor-building; framed as early-stage \"ALAB/AAOI/LITE comparable\" — potential 2025 high-conviction pattern replay)",
-      "updatedAt": "2026-06-12T04:26:43Z",
-      "latestSignal": "Serenity directly positioned $SIVE as being in the same early-stage range as $ALAB ($97→$372), $LITE ($330→$904), and $AAOI ($30→$175) were in 2025 when they were \"small $3B companies (~$14B now).\" This is the most explicit early-stage comparable framing she has applied to SIVE — implying it could follow the same trajectory as her 2025 calls that all delivered 2–5x+ returns."
+      "previousView": "Bullish (space/defense catalyst + multi-institution floor-building; framed as early-stage \"ALAB/AAOI/LITE comparable\" — potential 2025 high-conviction pattern replay)"
     },
     {
-      "type": "new_ticker",
+      "type": "removed_ticker",
       "ticker": "ALAB",
-      "currentView": "Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed); original 2025 thesis validated ($97→$372, +283%) but Serenity lost conviction mid-way due to optical transitions",
-      "updatedAt": "2026-06-12T04:26:43Z",
-      "latestSignal": "Serenity's Jun 12 retrospective confirms $ALAB as a validated 2025 high-conviction call ($97→$372, +283%) while adding a key nuance: \"I got some nuances slightly off before more information was made public. Lost conviction on ALAB along the way with optical transitions.\" Serenity did not ride ALAB to full ATH — she exited early due to uncertainty around optical technology transitions in the product roadmap."
+      "previousView": "Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed); original 2025 thesis validated ($97→$372, +283%) but Serenity lost conviction mid-way due to optical transitions"
     },
     {
-      "type": "thesis_updated",
+      "type": "removed_ticker",
       "ticker": "NBIS",
-      "previousView": "Bullish / High Conviction (current disclosed holding)",
-      "currentView": "Bullish / High Conviction (current disclosed holding)",
-      "updatedAt": "2026-06-12T02:39:57Z",
-      "latestSignal": "Confirmed as active financial interest in a June 9 AI mid-cap exposure list; one of only three tickers Serenity explicitly names as a current holding (alongside $TSEM and $AAOI). The broader AI $10-100B bucket is described as having \"compelling ROI\" relative to $ARM and $MRVL, which \"ran quite a bit.\" NBIS has been Serenity's defining multi-period position since Sep 2025."
+      "previousView": "Bullish / High Conviction (current disclosed holding)"
     },
     {
-      "type": "new_ticker",
+      "type": "removed_ticker",
       "ticker": "RKLB",
-      "currentView": "Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)",
-      "updatedAt": "2026-06-12T02:39:57Z",
-      "latestSignal": "Serenity celebrated $RKLB joining the Nasdaq 100 alongside $NBIS and $ALAB — \"Fun to see both Astera, Rocketlab and Weebius grow up from being small companies… Into the largest ones on Nasdaq.\" This is the culminating milestone for Serenity's prior RKLB thesis: the trajectory from ~$16 thesis entry through institutional accumulation to Nasdaq 100 inclusion is the exact pattern she now applies as a template when analyzing $NBIS and $SIVE (institutions with <30% ownership → float absorption → ATH → large-cap index status)."
+      "previousView": "Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "MRVL",
+      "previousView": "Bullish (top US equity pick)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "LITE",
+      "previousView": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "SNDK",
+      "previousView": "Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "WULF",
+      "previousView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "CIFR",
+      "previousView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "WYFI",
+      "previousView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "HUT",
+      "previousView": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "NVDA",
+      "previousView": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; NVDA framed as \"America's national champion in AI\" with supply chain investment as core thesis)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "INTC",
+      "previousView": "Bullish (top US equity pick; critical US supply-chain with subsidy validation)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "AAOI",
+      "previousView": "Bullish / High Conviction (current disclosed holding; US photonics domestic-champion thesis)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "SPCX",
+      "previousView": "Macro-observational / IPO catalyst watch (no explicit position disclosed)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "XFAB",
+      "previousView": "Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. \"automaker supplier\" perception)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "LPK",
+      "previousView": "Speculative / Exploratory (disclosed position; contract scope unclear)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "AXTI",
+      "previousView": "Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "FOCI",
+      "previousView": "Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "MU",
+      "previousView": "Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports; pattern re-invoked and further corroborated for NVDA CPO/800V episode)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "TSEM",
+      "previousView": "Bullish (current disclosed holding; \"TSM of photonics\" thesis)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "MID-CAP",
+      "previousView": "Speculative research / watchlist — **no position held** in any of these"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "JBL",
+      "previousView": "Tentatively bullish (speculative research idea, no position held)"
+    },
+    {
+      "type": "removed_ticker",
+      "ticker": "ARM",
+      "previousView": "Bullish (top US equity pick)"
     }
   ],
   "requiresKnowledgeRefresh": true,

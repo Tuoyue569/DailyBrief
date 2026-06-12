@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T11:53:29.677Z",
+  "generatedAt": "2026-06-12T19:33:07.956Z",
   "files": {
     "skill": {
       "sha": "785277f2c4272d4be1e168595907d442b60bb7e4",
@@ -10,8 +10,8 @@
       "lastCommitAt": "2026-06-03T03:04:57Z"
     },
     "theses": {
-      "sha": "df2e268eb8df0bf553ef6aa7b9b5ffe6204eddbc",
-      "lastCommitAt": "2026-06-12T05:16:12Z"
+      "sha": "d3765aa28fc06dfeaa6ac517fad9a8a96b6d60eb",
+      "lastCommitAt": "2026-06-12T16:10:14Z"
     },
     "articles": {
       "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
@@ -22,126 +22,5 @@
       "lastCommitAt": "2026-06-12T05:16:35Z"
     }
   },
-  "thesesByTicker": {
-    "SIVE": {
-      "fingerprint": "d8f196b546a8889dc51840200e85a41d39abca0e03f9d9bc34e58907fd27d09d",
-      "view": "Bullish (space/defense catalyst + multi-institution floor-building; framed as early-stage \"ALAB/AAOI/LITE comparable\" — potential 2025 high-conviction pattern replay)",
-      "updatedAt": "2026-06-12T04:26:43Z"
-    },
-    "ALAB": {
-      "fingerprint": "6742ea2b32c33ad1ab4fc2b67fbf6c3772953d26ab6850fde5a211a234d57ced",
-      "view": "Index inclusion milestone observation (positive; Nasdaq 100 addition; no position disclosed); original 2025 thesis validated ($97→$372, +283%) but Serenity lost conviction mid-way due to optical transitions",
-      "updatedAt": "2026-06-12T04:26:43Z"
-    },
-    "NBIS": {
-      "fingerprint": "e83ea453876a570ddf70c3432f2edd99c8f9807be66c23e24fcd1e0b8cebc795",
-      "view": "Bullish / High Conviction (current disclosed holding)",
-      "updatedAt": "2026-06-12T02:39:57Z"
-    },
-    "RKLB": {
-      "fingerprint": "025f6e04605ea9f7543f22fa67977b5c872216a5f55d2c639337e541d9ac16d5",
-      "view": "Nasdaq 100 milestone validation — prior high-conviction long thesis fully realized; now serves as the canonical reference template for active theses ($NBIS, $SIVE)",
-      "updatedAt": "2026-06-12T02:39:57Z"
-    },
-    "MRVL": {
-      "fingerprint": "ce1f4d1240a7a055d30864c0ddd8a3a7ba130a4810c4730aa9d3011b57d53872",
-      "view": "Bullish (top US equity pick)",
-      "updatedAt": "2026-06-11T18:19:06Z"
-    },
-    "LITE": {
-      "fingerprint": "d433b0f899f56cf690f9dcdb121666f47d6500501c2a90b0f7b5a622098246ea",
-      "view": "Bullish (CPO Scale-Up optical confirmed H2 2027; volume ramp 2028; joint NVDA+LITE timeline corroboration)",
-      "updatedAt": "2026-06-11T18:19:06Z"
-    },
-    "SNDK": {
-      "fingerprint": "91a10d0fde7f2e4c5dc0715a834dab3e0ad23351d62aa459c0f12fbf6715bf41",
-      "view": "Macro observational (Iran ceasefire de-escalation tailwind; no independent buy/sell signal)",
-      "updatedAt": "2026-06-11T18:19:06Z"
-    },
-    "WULF": {
-      "fingerprint": "6240a4c92e5a1a3a9eebcf015fb76f4bc3efc1525e52d1d25b2293d79d7fe801",
-      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-      "updatedAt": "2026-06-11T17:54:35Z"
-    },
-    "CIFR": {
-      "fingerprint": "f459e7d19e2e8cc79cf67059dd57bc49898a910f2eadaf2a2a7e061d72e53cf9",
-      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-      "updatedAt": "2026-06-11T17:54:35Z"
-    },
-    "WYFI": {
-      "fingerprint": "43f915da79b4d2b4e2e80d2bd14e8804993444b9a9c9d79c4c1dc9702af507b0",
-      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-      "updatedAt": "2026-06-11T17:54:35Z"
-    },
-    "HUT": {
-      "fingerprint": "1842181dd90982e474eb252e8c0a69793f564cabae6a4edb6d1add2936a08704",
-      "view": "Tentatively bullish (Anthropic DC-leasing tailwind for Neocloud colo sector)",
-      "updatedAt": "2026-06-11T17:54:35Z"
-    },
-    "NVDA": {
-      "fingerprint": "ea1a9fee25b98183117995774320c90dcb36129784155626a11fd54891f36610",
-      "view": "Bullish (CPO/800V timeline confirmed; SemiAnalysis pushback report independently refuted by both Nvidia and Morgan Stanley; NVDA framed as \"America's national champion in AI\" with supply chain investment as core thesis)",
-      "updatedAt": "2026-06-11T16:49:50Z"
-    },
-    "INTC": {
-      "fingerprint": "7111b76af02b07bf9f0b480ededa85675029fe21873d0be7849d4bbaa471dd8d",
-      "view": "Bullish (top US equity pick; critical US supply-chain with subsidy validation)",
-      "updatedAt": "2026-06-11T16:13:28Z"
-    },
-    "AAOI": {
-      "fingerprint": "7abf1e32397cb1cf6e44bf9f233fa6bbd25eb5e0766822ceeda61b3f954d70c1",
-      "view": "Bullish / High Conviction (current disclosed holding; US photonics domestic-champion thesis)",
-      "updatedAt": "2026-06-11T16:13:28Z"
-    },
-    "SPCX": {
-      "fingerprint": "1b930399675e416d7b59af47d0656898c5fd0b85d00f6c02838f837652a9742d",
-      "view": "Macro-observational / IPO catalyst watch (no explicit position disclosed)",
-      "updatedAt": "2026-06-11T15:05:53Z"
-    },
-    "XFAB": {
-      "fingerprint": "e97e50193ae3fb845aeffe2183bb210ff797e52699893e886843d5b78f43b2b9",
-      "view": "Bullish (EU silicon photonics foundry alternative; early-stage; development-to-production 2027–2028; contrarian vs. \"automaker supplier\" perception)",
-      "updatedAt": "2026-06-11T09:54:56Z"
-    },
-    "LPK": {
-      "fingerprint": "cf42d7ea6d8e7f225d03df6cdfd3b109281237c9cf12a9deb25e42c6132a2f2a",
-      "view": "Speculative / Exploratory (disclosed position; contract scope unclear)",
-      "updatedAt": "2026-06-11T08:46:38Z"
-    },
-    "AXTI": {
-      "fingerprint": "eb88def4253f4fa70d6f462e9c56b909f6f955926a5e1a46766a140d47a52eb8",
-      "view": "Not a buy now (post-thesis-peak); InP monopoly thesis validated by Reuters / mainstream media; monitor for future re-entry",
-      "updatedAt": "2026-06-11T05:27:12Z"
-    },
-    "FOCI": {
-      "fingerprint": "84ab44b37fb88e097248f7c6a76dd9b22718ccf585074ba88e3adcb85b6563d7",
-      "view": "Bullish (expected NVDA/TSM optical bottleneck; contrarian — negative sellside = institutional accumulation signal)",
-      "updatedAt": "2026-06-11T03:18:16Z"
-    },
-    "MU": {
-      "fingerprint": "a1c3f02fcd32bccab50c4d96056ddfd60309f5e04ea58d450a975f4338a9eb07",
-      "view": "Bullish (HBM4 Rubin share vindicated; buy-the-dip on false analyst negative reports; pattern re-invoked and further corroborated for NVDA CPO/800V episode)",
-      "updatedAt": "2026-06-10T10:47:56Z"
-    },
-    "TSEM": {
-      "fingerprint": "dc32cc7239a508acae86da077ffc566087c16012755bef94aaba73ed36562d65",
-      "view": "Bullish (current disclosed holding; \"TSM of photonics\" thesis)",
-      "updatedAt": "2026-06-09T11:52:27Z"
-    },
-    "MID-CAP": {
-      "fingerprint": "6cf3cf5cb000b425e5a67b35da149d77214c7446cfe8dc9ce83252d6a3a3c0de",
-      "view": "Speculative research / watchlist — **no position held** in any of these",
-      "updatedAt": "2026-06-09T11:52:27Z"
-    },
-    "JBL": {
-      "fingerprint": "fbdb09c8a4f90452810103b6bfd3b9fc33b246d5fa5507caaad9798cf4bfb67a",
-      "view": "Tentatively bullish (speculative research idea, no position held)",
-      "updatedAt": "2026-06-09T06:44:07Z"
-    },
-    "ARM": {
-      "fingerprint": "f4adc971a92a36b903390f1ff13d06fdf39e08935ff0e3e5467f76d9c0194f75",
-      "view": "Bullish (top US equity pick)",
-      "updatedAt": "2026-06-08T14:01:34Z"
-    }
-  }
+  "thesesByTicker": {}
 }
