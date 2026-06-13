@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-13T08:32:05.974Z",
-  "comparedWithPreviousSnapshotAt": "2026-06-12T19:33:07.956Z",
+  "generatedAt": "2026-06-13T15:19:42.916Z",
+  "comparedWithPreviousSnapshotAt": "2026-06-13T08:32:05.974Z",
   "initialSnapshot": false,
   "anyChange": true,
   "fileChanges": [
@@ -26,9 +26,9 @@
       "key": "theses",
       "path": "serenity-aleabitoreddit/references/theses.md",
       "changed": true,
-      "previousSha": "d3765aa28fc06dfeaa6ac517fad9a8a96b6d60eb",
-      "currentSha": "9187f465ac1f9f5a7f894461b24a16bfe06973a3",
-      "lastCommitAt": "2026-06-13T05:03:41Z",
+      "previousSha": "9187f465ac1f9f5a7f894461b24a16bfe06973a3",
+      "currentSha": "9e35e2c5fe2f2563b22808499a18aaa2d6426060",
+      "lastCommitAt": "2026-06-13T13:03:55Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/theses.md"
     },
     {
@@ -43,14 +43,14 @@
     {
       "key": "trackRecord",
       "path": "serenity-aleabitoreddit/references/track-record.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "7908d71ff42133b1854615368f3049ef125299c6",
-      "currentSha": "7908d71ff42133b1854615368f3049ef125299c6",
-      "lastCommitAt": "2026-06-12T05:16:35Z",
+      "currentSha": "0394e3fad7aafd52353a35c2aa027ab0bd7e5eaf",
+      "lastCommitAt": "2026-06-13T13:03:55Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/track-record.md"
     }
   ],
   "thesisChanges": [],
-  "requiresKnowledgeRefresh": false,
-  "recommendedAction": "No durable Serenity distillation change detected."
+  "requiresKnowledgeRefresh": true,
+  "recommendedAction": "Review changed methodology/articles/track-record or stance reversals, then refresh the Custom GPT Knowledge files."
 }
