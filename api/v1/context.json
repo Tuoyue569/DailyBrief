@@ -1,20 +1,26 @@
 {
-  "generatedAt": "2026-06-15T23:21:52.572Z",
-  "knowledgeAsOf": "2026-06-15T13:21:42Z",
+  "generatedAt": "2026-06-16T18:18:25.195Z",
+  "knowledgeAsOf": "2026-06-16T11:12:03Z",
   "sourceFreshness": {
     "skill": "2026-06-11T08:01:52Z",
     "methodology": "2026-06-03T03:04:57Z",
-    "theses": "2026-06-15T13:21:42Z",
+    "theses": "2026-06-16T11:12:03Z",
     "articles": "2026-06-04T10:34:33Z",
     "trackRecord": "2026-06-15T13:21:42Z"
   },
   "changeSummary": {
     "initialSnapshot": false,
-    "anyChange": false,
+    "anyChange": true,
     "requiresKnowledgeRefresh": false,
     "recommendedAction": "No durable Serenity distillation change detected.",
     "thesisChanges": [],
-    "changedFiles": []
+    "changedFiles": [
+      {
+        "key": "theses",
+        "path": "serenity-aleabitoreddit/references/theses.md",
+        "lastCommitAt": "2026-06-16T11:12:03Z"
+      }
+    ]
   },
   "latestTickerTheses": [],
   "latestDailyBrief": {
