@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-23T10:49:15.903Z",
-  "knowledgeAsOf": "2026-06-23T06:57:24Z",
+  "generatedAt": "2026-06-23T17:32:05.191Z",
+  "knowledgeAsOf": "2026-06-23T14:46:52Z",
   "source": {
     "path": "serenity-aleabitoreddit/references/methodology.md",
-    "sha": "24e39406819c0ed6137ed60be231e183e21b20f9",
-    "lastCommitAt": "2026-06-03T03:04:57Z",
-    "lastCommitSha": "343aeb67cbb6fd0756f31aa67ec412ff6516d522",
+    "sha": "7c8ac4b16b0068e87b35768c08908f0747d7e7ac",
+    "lastCommitAt": "2026-06-23T13:02:50Z",
+    "lastCommitSha": "c76f214f1d0e3a006fa290657649a805a55f8a79",
     "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/methodology.md"
   },
   "principles": [
@@ -63,7 +63,7 @@
     },
     {
       "title": "14. Anti-patterns he calls out",
-      "content": "- **Standalone technical analysis** — \"TA is snake oil without fundamentals,\n  catalysts, macro.\" \"Float and fundamentals > lines on a chart.\"\n- **Credentialed certainty without supply-chain fluency** — May 2026 media\n  critique: credentials or background matter less than whether the person can\n  reason correctly about CW laser nuances, valuation, InP substrate moats, and\n  crucible-processing constraints. Treat confident commentary that conflates\n  these layers as noise even when it comes from polished media voices.\n- **Insider sales as a bear signal** — explicitly \"the dumbest metric\" / noise.\n- **Conflating supply-chain layers** — substrate ≠ epiwafer ≠ feedstock; foundry\n  ≠ module. He corrects these constantly.\n- **Reddit/X sentiment** — \"IGNORE the sentiment since it's usually wrong.\"\n- **Replying to disinformation campaigns** — May 30 SIVE follow-up: when an\n  account spreads apparent disinformation, report it for spam and block it;\n  replying only adds engagement.\n- **Chasing the already-frontrun event** — buying oil/defense at ATHs *after* a\n  war headline instead of pre-positioning.\n- **Cult/financial-engineering valuations** — PLTR (\"large part of profit is\n  just interest income\"); SNAP (SBC-funded buybacks masking negative true FCF).\n\n---"
+      "content": "- **Standalone technical analysis** — \"TA is snake oil without fundamentals,\n  catalysts, macro.\" \"Float and fundamentals > lines on a chart.\"\n- **Credentialed certainty without supply-chain fluency** — May 2026 media\n  critique: credentials or background matter less than whether the person can\n  reason correctly about CW laser nuances, valuation, InP substrate moats, and\n  crucible-processing constraints. Treat confident commentary that conflates\n  these layers as noise even when it comes from polished media voices. Jun 23\n  example: Bloomberg framing Taiwan's $TSM multiple and $NVDA upstream supply\n  chain as a bubble was treated as a repeat of BofA's failed KOSPI bubble call.\n- **Insider sales as a bear signal** — explicitly \"the dumbest metric\" / noise.\n- **Conflating supply-chain layers** — substrate ≠ epiwafer ≠ feedstock; foundry\n  ≠ module. He corrects these constantly.\n- **Reddit/X sentiment** — \"IGNORE the sentiment since it's usually wrong.\"\n- **Replying to disinformation campaigns** — May 30 SIVE follow-up: when an\n  account spreads apparent disinformation, report it for spam and block it;\n  replying only adds engagement.\n- **Chasing the already-frontrun event** — buying oil/defense at ATHs *after* a\n  war headline instead of pre-positioning.\n- **Cult/financial-engineering valuations** — PLTR (\"large part of profit is\n  just interest income\"); SNAP (SBC-funded buybacks masking negative true FCF).\n\n---"
     },
     {
       "title": "15. The checklist (run this on any new name)",
