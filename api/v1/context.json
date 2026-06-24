@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-24T10:28:52.657Z",
-  "knowledgeAsOf": "2026-06-24T07:00:07Z",
+  "generatedAt": "2026-06-24T17:31:58.587Z",
+  "knowledgeAsOf": "2026-06-24T14:05:12Z",
   "sourceFreshness": {
     "skill": "2026-06-11T08:01:52Z",
     "methodology": "2026-06-23T13:02:50Z",
-    "theses": "2026-06-23T14:46:52Z",
+    "theses": "2026-06-24T14:05:12Z",
     "articles": "2026-06-04T10:34:33Z",
-    "trackRecord": "2026-06-24T07:00:07Z"
+    "trackRecord": "2026-06-24T14:05:12Z"
   },
   "changeSummary": {
     "initialSnapshot": false,
@@ -16,9 +16,14 @@
     "thesisChanges": [],
     "changedFiles": [
       {
+        "key": "theses",
+        "path": "serenity-aleabitoreddit/references/theses.md",
+        "lastCommitAt": "2026-06-24T14:05:12Z"
+      },
+      {
         "key": "trackRecord",
         "path": "serenity-aleabitoreddit/references/track-record.md",
-        "lastCommitAt": "2026-06-24T07:00:07Z"
+        "lastCommitAt": "2026-06-24T14:05:12Z"
       }
     ]
   },
