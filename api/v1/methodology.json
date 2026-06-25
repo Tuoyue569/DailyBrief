@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-25T10:21:01.996Z",
-  "knowledgeAsOf": "2026-06-25T06:07:53Z",
+  "generatedAt": "2026-06-25T18:33:27.536Z",
+  "knowledgeAsOf": "2026-06-25T17:08:32Z",
   "source": {
     "path": "serenity-aleabitoreddit/references/methodology.md",
-    "sha": "984a947abc53582cce903ee1eae90af5757b2a3f",
-    "lastCommitAt": "2026-06-25T05:03:40Z",
-    "lastCommitSha": "01739f0925419a088c3422350012cff8e9289db5",
+    "sha": "6f5bfec5a2386b18380b48c5744c666373be3705",
+    "lastCommitAt": "2026-06-25T15:06:26Z",
+    "lastCommitSha": "a003291adfdb3b7938dd57cf8e0da17b614773ed",
     "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/methodology.md"
   },
   "principles": [
@@ -59,7 +59,7 @@
     },
     {
       "title": "13. Conviction tiering, sizing, and timing",
-      "content": "- **What:** Explicit tiering (S/A/B/C/D/F lists) and conviction-scaled sizing;\n  smaller size on binary microcaps; calls instead of shares when a name could go\n  to zero (e.g. China export-ban risk).\n- **Signal:** \"Fundamentally de-risked\" (Mag7 counterparty + locked take-or-pay\n  contract) = top tier and bigger size; execution/dilution/binary risk = small\n  size or defined-risk options. Explicit \"no position\" or \"for fun\" idea posts\n  sit below owned thesis posts and should be used mainly to study his process.\n- **Apply:** Size to conviction *and* to how binary the outcome is. He repeatedly\n  warns: these names move 20%+ a day, \"build conviction yourself before you\n  enter,\" \"don't have high concentration in small caps.\" Holds for LTCG when\n  catalysts are ≥12 months out. Goes off margin during macro uncertainty.\n  Jun 25 2026 update: after a recent \"massive drawdown,\" he called the strategy\n  \"Diversified Losses\" and said CPO exposure was hit the hardest across Foci,\n  Msscorp, and adjacent names. Treat this as a live reminder that many\n  individually different optical/CPO chokepoint names can still share the same\n  factor exposure; diversify by driver, not just ticker count.\n- **Example:** \"Calls are actually safer than shares\" on AXTI given China export\n  risk (2025-12-30); SIVE flagged \"wouldn't put too much concentration into\n  them\" for average accounts."
+      "content": "- **What:** Explicit tiering (S/A/B/C/D/F lists) and conviction-scaled sizing;\n  smaller size on binary microcaps; calls instead of shares when a name could go\n  to zero (e.g. China export-ban risk).\n- **Signal:** \"Fundamentally de-risked\" (Mag7 counterparty + locked take-or-pay\n  contract) = top tier and bigger size; execution/dilution/binary risk = small\n  size or defined-risk options. Explicit \"no position\" or \"for fun\" idea posts\n  sit below owned thesis posts and should be used mainly to study his process.\n- **Apply:** Size to conviction *and* to how binary the outcome is. He repeatedly\n  warns: these names move 20%+ a day, \"build conviction yourself before you\n  enter,\" \"don't have high concentration in small caps.\" Holds for LTCG when\n  catalysts are ≥12 months out. Goes off margin during macro uncertainty.\n  Jun 25 2026 update: after a recent \"massive drawdown,\" he called the strategy\n  \"Diversified Losses\" and said CPO exposure was hit the hardest across Foci,\n  Msscorp, and adjacent names. Treat this as a live reminder that many\n  individually different optical/CPO chokepoint names can still share the same\n  factor exposure; diversify by driver, not just ticker count. Later the same\n  day he noted memory, indexes, and large-cap semis such as Intel were among the\n  only areas not yet crashing, while photonics, space, popular AI, and software\n  baskets were down roughly 35-40%; use that as a market-regime filter before\n  adding to high-beta AI-adjacent small caps.\n- **Example:** \"Calls are actually safer than shares\" on AXTI given China export\n  risk (2025-12-30); SIVE flagged \"wouldn't put too much concentration into\n  them\" for average accounts."
     },
     {
       "title": "14. Anti-patterns he calls out",
