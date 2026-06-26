@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-26T10:38:30.400Z",
+  "generatedAt": "2026-06-26T17:18:06.489Z",
   "files": {
     "skill": {
-      "sha": "785277f2c4272d4be1e168595907d442b60bb7e4",
-      "lastCommitAt": "2026-06-11T08:01:52Z"
+      "sha": "7f61b52cac2e24df03be290eed5ee54053f6a5fd",
+      "lastCommitAt": "2026-06-26T16:12:31Z"
     },
     "methodology": {
       "sha": "7610a4aa415bf937e32f231c9d6c941b9dafd480",
       "lastCommitAt": "2026-06-26T04:16:34Z"
     },
     "theses": {
-      "sha": "490a58774b510504427965e00b0250af2b581ebd",
-      "lastCommitAt": "2026-06-26T10:13:58Z"
+      "sha": "2036297d93e5145c550f7de4ff4047fe303b98ca",
+      "lastCommitAt": "2026-06-26T14:15:27Z"
     },
     "articles": {
       "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
