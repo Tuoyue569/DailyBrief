@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T17:18:06.489Z",
-  "knowledgeAsOf": "2026-06-26T16:12:31Z",
+  "generatedAt": "2026-06-26T21:52:54.721Z",
+  "knowledgeAsOf": "2026-06-26T18:05:08Z",
   "sourceFreshness": {
-    "skill": "2026-06-26T16:12:31Z",
+    "skill": "2026-06-26T18:05:08Z",
     "methodology": "2026-06-26T04:16:34Z",
     "theses": "2026-06-26T14:15:27Z",
     "articles": "2026-06-04T10:34:33Z",
@@ -18,12 +18,7 @@
       {
         "key": "skill",
         "path": "serenity-aleabitoreddit/SKILL.md",
-        "lastCommitAt": "2026-06-26T16:12:31Z"
-      },
-      {
-        "key": "theses",
-        "path": "serenity-aleabitoreddit/references/theses.md",
-        "lastCommitAt": "2026-06-26T14:15:27Z"
+        "lastCommitAt": "2026-06-26T18:05:08Z"
       }
     ]
   },
