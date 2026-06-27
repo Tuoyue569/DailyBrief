@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T21:52:54.721Z",
-  "comparedWithPreviousSnapshotAt": "2026-06-26T17:18:06.489Z",
+  "generatedAt": "2026-06-27T08:12:36.299Z",
+  "comparedWithPreviousSnapshotAt": "2026-06-26T21:52:54.721Z",
   "initialSnapshot": false,
   "anyChange": true,
   "fileChanges": [
@@ -8,9 +8,9 @@
       "key": "skill",
       "path": "serenity-aleabitoreddit/SKILL.md",
       "changed": true,
-      "previousSha": "7f61b52cac2e24df03be290eed5ee54053f6a5fd",
-      "currentSha": "1d07e5da80c2fb3002b37d56a4fcf4e44ab466b3",
-      "lastCommitAt": "2026-06-26T18:05:08Z",
+      "previousSha": "1d07e5da80c2fb3002b37d56a4fcf4e44ab466b3",
+      "currentSha": "8abdf5175d3438b9b5625f0b2776157862e10956",
+      "lastCommitAt": "2026-06-27T07:20:08Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/SKILL.md"
     },
     {
@@ -25,10 +25,10 @@
     {
       "key": "theses",
       "path": "serenity-aleabitoreddit/references/theses.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "2036297d93e5145c550f7de4ff4047fe303b98ca",
-      "currentSha": "2036297d93e5145c550f7de4ff4047fe303b98ca",
-      "lastCommitAt": "2026-06-26T14:15:27Z",
+      "currentSha": "1fe13d037ff93ee297f1d08c429576ad45bf9a17",
+      "lastCommitAt": "2026-06-27T07:20:08Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/theses.md"
     },
     {
