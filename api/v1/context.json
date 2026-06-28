@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T15:06:36.070Z",
+  "generatedAt": "2026-06-28T19:58:28.986Z",
   "knowledgeAsOf": "2026-06-28T10:30:51Z",
   "sourceFreshness": {
     "skill": "2026-06-27T09:30:10Z",
@@ -10,17 +10,11 @@
   },
   "changeSummary": {
     "initialSnapshot": false,
-    "anyChange": true,
-    "requiresKnowledgeRefresh": true,
-    "recommendedAction": "Review changed methodology/articles/track-record or stance reversals, then refresh the Custom GPT Knowledge files.",
+    "anyChange": false,
+    "requiresKnowledgeRefresh": false,
+    "recommendedAction": "No durable Serenity distillation change detected.",
     "thesisChanges": [],
-    "changedFiles": [
-      {
-        "key": "trackRecord",
-        "path": "serenity-aleabitoreddit/references/track-record.md",
-        "lastCommitAt": "2026-06-28T10:30:51Z"
-      }
-    ]
+    "changedFiles": []
   },
   "latestTickerTheses": [],
   "latestDailyBrief": {
