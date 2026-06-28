@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-28T00:16:38.482Z",
-  "knowledgeAsOf": "2026-06-27T09:30:10Z",
+  "generatedAt": "2026-06-28T10:15:21.902Z",
+  "knowledgeAsOf": "2026-06-28T08:36:20Z",
   "source": {
     "path": "serenity-aleabitoreddit/references/methodology.md",
-    "sha": "f85e7de879bd30f4d21c885bb6c0a8a52b547a4f",
-    "lastCommitAt": "2026-06-27T09:30:10Z",
-    "lastCommitSha": "9c6fec733bad65a580b7dbd38ef12ee5af12e330",
+    "sha": "f3439939951148b0648eebe625a4eeafdb7e1c5d",
+    "lastCommitAt": "2026-06-28T04:27:03Z",
+    "lastCommitSha": "9839d5d3b322cec825d2d5ee69a16590805e5ed2",
     "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/methodology.md"
   },
   "principles": [
