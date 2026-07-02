@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-02T10:17:37.473Z",
+  "generatedAt": "2026-07-02T17:08:56.684Z",
   "files": {
     "skill": {
-      "sha": "5a2fa9e94ac3b50abb06da3bafd8ad2938e56baf",
-      "lastCommitAt": "2026-07-02T09:26:18Z"
+      "sha": "f11ccac2ae0a04404083b14a711733f1770c99d1",
+      "lastCommitAt": "2026-07-02T11:28:29Z"
     },
     "methodology": {
       "sha": "f3439939951148b0648eebe625a4eeafdb7e1c5d",
@@ -18,8 +18,8 @@
       "lastCommitAt": "2026-06-04T10:34:33Z"
     },
     "trackRecord": {
-      "sha": "bf5939becfc2d40bf430e8dccf7558f3ec083b5c",
-      "lastCommitAt": "2026-07-02T09:26:18Z"
+      "sha": "7cfb15f4b5237e944bb061eceb726bac1439e37e",
+      "lastCommitAt": "2026-07-02T11:28:29Z"
     }
   },
   "thesesByTicker": {}
