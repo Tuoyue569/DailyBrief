@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-03T20:34:27.811Z",
-  "comparedWithPreviousSnapshotAt": "2026-07-03T15:53:04.949Z",
+  "generatedAt": "2026-07-04T07:28:21.470Z",
+  "comparedWithPreviousSnapshotAt": "2026-07-03T20:34:27.811Z",
   "initialSnapshot": false,
-  "anyChange": false,
+  "anyChange": true,
   "fileChanges": [
     {
       "key": "skill",
       "path": "serenity-aleabitoreddit/SKILL.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "52d89fdf16d11621abcbd761b677450a1f6e199b",
-      "currentSha": "52d89fdf16d11621abcbd761b677450a1f6e199b",
-      "lastCommitAt": "2026-07-03T06:42:45Z",
+      "currentSha": "f02b8ab58b7257f7a450c6b59f02f24ec1cddf93",
+      "lastCommitAt": "2026-07-03T21:57:12Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/SKILL.md"
     },
     {
@@ -25,10 +25,10 @@
     {
       "key": "theses",
       "path": "serenity-aleabitoreddit/references/theses.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "a7d4a6ed37f657e675d5eb8e6fbe9b39d40b5c83",
-      "currentSha": "a7d4a6ed37f657e675d5eb8e6fbe9b39d40b5c83",
-      "lastCommitAt": "2026-07-03T06:42:45Z",
+      "currentSha": "0e564fb6609bacc2b6c68089c62fc45c89b112ec",
+      "lastCommitAt": "2026-07-03T21:57:12Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/theses.md"
     },
     {
@@ -43,14 +43,14 @@
     {
       "key": "trackRecord",
       "path": "serenity-aleabitoreddit/references/track-record.md",
-      "changed": false,
+      "changed": true,
       "previousSha": "f2d17d58374c9ef4139e879f28bd919a5561b001",
-      "currentSha": "f2d17d58374c9ef4139e879f28bd919a5561b001",
-      "lastCommitAt": "2026-07-03T06:42:45Z",
+      "currentSha": "8e2722254947a9a6515d056ab7afa0b8e32df7b9",
+      "lastCommitAt": "2026-07-03T21:57:12Z",
       "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/track-record.md"
     }
   ],
   "thesisChanges": [],
-  "requiresKnowledgeRefresh": false,
-  "recommendedAction": "No durable Serenity distillation change detected."
+  "requiresKnowledgeRefresh": true,
+  "recommendedAction": "Review changed methodology/articles/track-record or stance reversals, then refresh the Custom GPT Knowledge files."
 }
