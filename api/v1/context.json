@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-07T10:40:42.598Z",
-  "knowledgeAsOf": "2026-07-07T09:06:11Z",
+  "generatedAt": "2026-07-07T18:24:19.599Z",
+  "knowledgeAsOf": "2026-07-07T18:05:03Z",
   "sourceFreshness": {
-    "skill": "2026-07-07T09:06:11Z",
+    "skill": "2026-07-07T18:05:03Z",
     "methodology": "2026-06-28T04:27:03Z",
     "theses": "2026-07-07T09:06:11Z",
     "articles": "2026-06-04T10:34:33Z",
-    "trackRecord": "2026-07-07T09:06:11Z"
+    "trackRecord": "2026-07-07T18:05:03Z"
   },
   "changeSummary": {
     "initialSnapshot": false,
@@ -18,17 +18,12 @@
       {
         "key": "skill",
         "path": "serenity-aleabitoreddit/SKILL.md",
-        "lastCommitAt": "2026-07-07T09:06:11Z"
-      },
-      {
-        "key": "theses",
-        "path": "serenity-aleabitoreddit/references/theses.md",
-        "lastCommitAt": "2026-07-07T09:06:11Z"
+        "lastCommitAt": "2026-07-07T18:05:03Z"
       },
       {
         "key": "trackRecord",
         "path": "serenity-aleabitoreddit/references/track-record.md",
-        "lastCommitAt": "2026-07-07T09:06:11Z"
+        "lastCommitAt": "2026-07-07T18:05:03Z"
       }
     ]
   },
