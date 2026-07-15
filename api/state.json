@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-07-15T00:58:39.776Z",
+  "generatedAt": "2026-07-15T04:15:29.347Z",
   "files": {
     "skill": {
-      "sha": "ea3c55dd9d8ce443af3fa8a9b29dc019385eb040",
-      "lastCommitAt": "2026-07-14T01:04:05Z"
+      "sha": "754bc47e2caac16abd607477fd83b75ee9ec4af0",
+      "lastCommitAt": "2026-07-15T01:04:31Z"
     },
     "methodology": {
       "sha": "f3439939951148b0648eebe625a4eeafdb7e1c5d",
       "lastCommitAt": "2026-06-28T04:27:03Z"
     },
     "theses": {
-      "sha": "81aa3b7bd1d04f6facc67e3d27a41afbeec70444",
-      "lastCommitAt": "2026-07-14T01:04:05Z"
+      "sha": "fa8997956d006a5f623089ab6e8f9dcb9321960e",
+      "lastCommitAt": "2026-07-15T01:04:31Z"
     },
     "articles": {
       "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
       "lastCommitAt": "2026-06-04T10:34:33Z"
     },
     "trackRecord": {
-      "sha": "ae6a04940448fc8ad7e4c08d72c17b76e2bdca64",
-      "lastCommitAt": "2026-07-14T01:04:05Z"
+      "sha": "463391ccd5ba3f4e4caa174d074e7de6dd9a3e7c",
+      "lastCommitAt": "2026-07-15T01:04:31Z"
     }
   },
   "thesesByTicker": {}
