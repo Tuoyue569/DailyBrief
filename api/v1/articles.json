@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-16T23:36:34.783Z",
-  "knowledgeAsOf": null,
+  "generatedAt": "2026-07-17T01:10:27.444Z",
+  "knowledgeAsOf": "2026-07-16T17:57:49Z",
   "source": {
     "path": "serenity-aleabitoreddit/references/articles.md",
     "sha": "b8de6df4345f77d75d5bc861c15e5dded4b99e3d",
-    "lastCommitAt": null,
-    "lastCommitSha": null,
+    "lastCommitAt": "2026-06-04T10:34:33Z",
+    "lastCommitSha": "790369c2c36bdd9b8a1e0c95b6f2012cd8833954",
     "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/articles.md"
   },
   "index": [
