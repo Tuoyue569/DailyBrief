@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-10T00:04:14.140Z",
-  "knowledgeAsOf": "2026-08-09T01:05:39Z",
+  "generatedAt": "2026-08-10T02:31:03.518Z",
+  "knowledgeAsOf": "2026-08-10T01:05:43Z",
   "source": {
     "path": "serenity-aleabitoreddit/references/theses.md",
-    "sha": "e0dd67c8f6eaec15b59c640cb6053636285ea40f",
-    "lastCommitAt": "2026-08-09T01:05:39Z",
-    "lastCommitSha": "0d9afa1b20bd81f901c999ce9de0eec77a468d9b",
+    "sha": "b3c099b1a561a6adb66314bdc0e3347196254592",
+    "lastCommitAt": "2026-08-10T01:05:43Z",
+    "lastCommitSha": "5d198327d3fe840eedfd38faa1a92bf4a4db6523",
     "sourceUrl": "https://github.com/yan-labs/serenity-aleabitoreddit/blob/main/serenity-aleabitoreddit/references/theses.md"
   },
   "count": 0,
