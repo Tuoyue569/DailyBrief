@@ -1,20 +1,36 @@
 {
-  "generatedAt": "2026-09-10T00:11:56.035Z",
-  "knowledgeAsOf": "2026-09-06T01:07:01Z",
+  "generatedAt": "2026-09-10T04:36:58.317Z",
+  "knowledgeAsOf": "2026-09-10T01:08:00Z",
   "sourceFreshness": {
-    "skill": "2026-09-06T01:07:01Z",
+    "skill": "2026-09-10T01:08:00Z",
     "methodology": "2026-08-09T01:05:39Z",
-    "theses": "2026-09-05T04:10:04Z",
+    "theses": "2026-09-10T01:08:00Z",
     "articles": "2026-06-04T10:34:33Z",
-    "trackRecord": "2026-09-05T04:10:04Z"
+    "trackRecord": "2026-09-10T01:08:00Z"
   },
   "changeSummary": {
     "initialSnapshot": false,
-    "anyChange": false,
-    "requiresKnowledgeRefresh": false,
-    "recommendedAction": "No durable Serenity distillation change detected.",
+    "anyChange": true,
+    "requiresKnowledgeRefresh": true,
+    "recommendedAction": "Review changed methodology/articles/track-record or stance reversals, then refresh the Custom GPT Knowledge files.",
     "thesisChanges": [],
-    "changedFiles": []
+    "changedFiles": [
+      {
+        "key": "skill",
+        "path": "serenity-aleabitoreddit/SKILL.md",
+        "lastCommitAt": "2026-09-10T01:08:00Z"
+      },
+      {
+        "key": "theses",
+        "path": "serenity-aleabitoreddit/references/theses.md",
+        "lastCommitAt": "2026-09-10T01:08:00Z"
+      },
+      {
+        "key": "trackRecord",
+        "path": "serenity-aleabitoreddit/references/track-record.md",
+        "lastCommitAt": "2026-09-10T01:08:00Z"
+      }
+    ]
   },
   "latestTickerTheses": [],
   "latestDailyBrief": {
